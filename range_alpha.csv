@@ -1,0 +1,1018 @@
+ID,airport_name,type,country,lat,long,elevation,service
+BG-0001,Livada Airport,closed,BG,42.456284,27.197334,58.0,no
+BG-0007,Glozhene South Airport,closed,BG,43.678589,23.796827,177.0,no
+BG-0008,Kozloduy Airfield,closed,BG,43.763134,23.722031,152.0,no
+BG-0010,Krushovene Airfield,closed,BG,43.623531,24.378567,130.0,no
+BG-0011,Milkovitsa Airfield,closed,BG,43.634274,24.757254,400.0,no
+BG-0013,Dve Mogili Airfield,small_airport,BG,43.606541,25.89069,837.0,no
+BG-0018,Irechekovo Airfield,closed,BG,42.470249,26.733295,804.0,no
+BG-0021,Gledka Airfield,closed,BG,41.5999,25.3857,962.0,no
+BG-0024,Krivnya Agricultural Airfield,small_airport,BG,43.66307,26.422251,984.0,no
+BG-0025,Belchinski Bani Airstrip,small_airport,BG,42.374713,23.392548,,no
+BG-0028,Blagoevo Airfield,small_airport,BG,43.455488,26.431655,1185.0,no
+BG-0030,Bozhurishte Airport,closed,BG,42.753228,23.202753,1877.0,no
+BG-0031,Draganovtsi Airfield,small_airport,BG,42.943042,25.169528,,no
+BG-0032,Breznik Airfield,small_airport,BG,42.693305,22.896559,699.0,no
+BG-0034,Bregovo Airstrip,closed,BG,44.132,22.659357,195.0,no
+BG-0035,Kapitanovtsi Airstrip,closed,BG,44.055815,22.878457,155.0,no
+BG-0039,Branichevo Airstrip,small_airport,BG,43.666213,27.100207,,no
+BG-0040,Air Belozem Airstrip,small_airport,BG,42.216573,25.068086,515.0,no
+BG-0045,Mogilishte Airstrip,small_airport,BG,43.49156,28.351996,423.0,no
+BG-0046,Dzhulyunitsa Airstrip,small_airport,BG,43.5858,25.614431,,no
+BG-0049,Kalipetrovo Agricultural Airfield,closed,BG,44.058828,27.256136,427.0,no
+BG-0050,Koynare Airstrip,small_airport,BG,43.371055,24.130442,,no
+BG-0056,Karamanite Airstrip,closed,BG,43.494528,27.448031,955.0,no
+BG-0057,Lozen Airstrip,small_airport,BG,43.301985,25.862821,751.0,no
+BG-0058,Dragoman Airfield,closed,BG,42.933316,22.978828,2316.0,no
+BG-0061,Doyrentsi Airfield,closed,BG,43.250388,24.838526,738.0,no
+BG-0062,Knezha Airstrip,small_airport,BG,43.546246,24.094756,495.0,no
+BG-0063,Brenitsa Airstrip,small_airport,BG,43.4415329,24.1403714,,no
+BG-0064,Gradishte Airstrip,small_airport,BG,43.333531,26.853869,931.0,no
+BG-0065,Borovan Airstrip,small_airport,BG,43.426891,23.77037,,no
+BG-0067,Aytos Airstrip,small_airport,BG,42.677296,27.254723,250.0,no
+BG-0068,Lozarevo Airstrip,small_airport,BG,42.757368,26.900321,1023.0,no
+BG-0069,Bedzhene Airstrip,small_airport,BG,43.447841,27.276943,,no
+BG-0070,Krivodol Airstrip,small_airport,BG,43.37501,23.510399,833.0,no
+BG-0071,Medovnitsa Airstrip,small_airport,BG,43.647866,22.797611,965.0,no
+BG-0076,Ezerets Airstrip,closed,BG,43.59181,28.50535,118.0,no
+BG-0078,Belozem SSA Airstrip,small_airport,BG,42.21439,25.05879,489.0,no
+BG-0081,Kalugerene Airstrip,small_airport,BG,43.906551,26.866593,,no
+BG-0083,Moskovets Airstrip,small_airport,BG,42.65839,24.68383,,no
+BG-0085,Kubrat Airstrip,closed,BG,43.787162,26.515642,745.0,no
+BG-0092,Kyustendil Airfield,closed,BG,42.29272,22.72459,1640.0,no
+BG-0093,Lozenets University Hospital Heliport,heliport,BG,42.663,23.31149,2021.0,no
+BG-0095,Bendida Beach Heliport,heliport,BG,43.4175,28.29096,240.0,no
+BG-0096,Kyustendil Heliport,heliport,BG,42.28959,22.67311,1798.0,no
+BG-0097,Avis Medica Hospital Emergency Helipad,heliport,BG,43.38605,24.63095,532.0,no
+BG-0099,Dzhurovo Airport,closed,BG,42.96505,24.03685,1119.0,no
+BG-0101,Devene Airfield,closed,BG,43.3903,23.61661,715.0,no
+BG-0102,Asenovgrad Airfield,small_airport,BG,42.0099,24.9264,922.0,no
+BG-0103,Lovets Cropduster Strip,closed,BG,42.2796,25.59664,640.0,no
+BG-0104,Chirpan Airfield,closed,BG,42.203822,25.297211,607.0,no
+BG-0105,Gita Airfield,closed,BG,42.19406,25.43875,591.0,no
+BG-0107,Elhovo Cropduster Strip,closed,BG,42.19009,26.54748,341.0,no
+BG-0108,Mezhda Highway Strip,closed,BG,42.31443,26.24916,,no
+BG-0109,Mlekarevo Airport,closed,BG,42.37034,26.08092,561.0,no
+BG-0111,Lyubenova Mahala Cropduster Airstrip (disused),closed,BG,42.33466,25.98662,459.0,no
+BG-0113,Madrets Airport,closed,BG,42.13675,26.07009,469.0,no
+BG-0116,Getsovo Cropduster Strip,closed,BG,43.54914,26.45848,604.0,no
+BG-0117,Ekzarh Yosif Airstrip,small_airport,BG,43.62617,25.78988,620.0,no
+BG-0118,Batishnitsa Cropduster Strip,closed,BG,43.5426,25.87698,915.0,no
+BG-0121,Archar Airport,closed,BG,43.80974,22.88929,177.0,no
+BG-0124,Glozhene Cropduster Strip,closed,BG,43.69826,23.7847,233.0,no
+BG-0125,Begovo Airstrip,closed,BG,42.41256,24.80449,741.0,no
+BG-0127,Brest Airstrip,closed,BG,43.65949,24.59856,75.0,no
+BG-0134,Lyubimets Airport,closed,BG,41.83271,26.07058,285.0,no
+BG-0136,Galabovo Cropduster Strip,closed,BG,42.15686,25.81133,522.0,no
+BG-0137,Lyulyakovo Airfield,closed,BG,43.67544,28.10369,696.0,no
+BG-0140,Ekzarh Antimovo Cropduster Strip,closed,BG,42.54068,26.97151,664.0,no
+BG-0145,Dalgopol Airfield,closed,BG,43.03371,27.33971,141.0,no
+BG-0147,Alfatar Airfield,closed,BG,43.91055,27.29674,643.0,no
+BG-0150,Bata Airfield,closed,BG,42.73299,27.48172,844.0,no
+BG-0151,Mokresh Airfield,closed,BG,43.15716,26.86366,449.0,no
+BG-0153,Gara Dulovo Airfield,closed,BG,43.790882,27.126844,814.0,no
+BG-0156,Abrit Airfield,closed,BG,43.90966,27.81772,659.0,no
+BG-0157,Krushari Airfield,small_airport,BG,43.83178,27.76284,712.0,no
+BG-0159,Belitsa Airfield,small_airport,BG,43.94283,26.66035,420.0,no
+BG-0160,Borisovo Airfield,small_airport,BG,43.92375,26.24698,179.0,no
+BG-0161,Belgun Airfield,closed,BG,43.59368,28.33605,384.0,no
+BG-0162,Dolna Dikanya Airfield,closed,BG,42.43235,23.10819,2178.0,no
+BG-0163,Kardam Airfield,closed,BG,43.73626,28.11404,607.0,no
+BG-0164,Isperih Airfield,closed,BG,43.74786,26.84907,814.0,no
+BG-0166,Gabrovnitsa Air Base,closed,BG,43.5443,23.272499,626.0,no
+BG-0169,Dobroslavtsi Air Base,closed,BG,42.811795,23.300114,1738.0,no
+BG-0171,Cheshnegirovo Air Base,closed,BG,42.114101,24.992901,604.0,no
+BG-0173,Konush Airstrip,closed,BG,42.072399,25.053301,500.0,no
+BG-0176,Mustrak Air Base,closed,BG,41.840185,26.309205,675.0,no
+BG-0177,Graf Ignatievo South Airport,closed,BG,42.263081,24.719297,623.0,no
+BG-0178,Dobrich Air Base,closed,BG,43.6096,27.8365,825.0,no
+BG-0182,Izgrev Airport,closed,BG,43.277222,27.701944,1119.0,no
+BG-0184,Doyrantsi Airstrip,small_airport,BG,43.610644,27.153111,901.0,no
+BG-HKV,Malevo Airfield,small_airport,BG,41.871799,25.604799,600.0,no
+BG-JAM,Bezmer Air Base,medium_airport,BG,42.454899,26.3522,509.0,no
+BY-0011,Aerodrom Belz,small_airport,UA,50.3771921,23.9648804,,no
+CZ-0003,Jindřichův Hradec Hospital Helistop,heliport,CZ,49.13923,15.005691,1620.0,no
+CZ-0004,Blansko Hospital Heliport,heliport,CZ,49.362389,16.654029,1038.0,no
+CZ-0005,Boskovice Hospital Heliport,heliport,CZ,49.48963,16.646267,1198.0,no
+CZ-0006,International Business Center Brno Heliport,heliport,CZ,49.200279,16.61389,774.0,no
+CZ-0007,Břeclav Hospital Heliport,heliport,CZ,48.752309,16.877881,518.0,no
+CZ-0008,Kyjov Hospital Helistop,heliport,CZ,49.008403,17.110684,730.0,no
+CZ-0009,Brno University Hospital Bohunice Reserve Heliport,heliport,CZ,49.175688,16.569328,967.0,no
+CZ-0010,Brno Černá Pole Heliport,heliport,CZ,49.203314,16.616512,791.0,no
+CZ-0013,Hradec Králové Heliport,heliport,CZ,50.193309,15.825514,751.0,no
+CZ-0015,Hradec Králové Teaching Hospital Rooftop Helipad,heliport,CZ,50.198182,15.828522,807.0,no
+CZ-0016,Bruntál Regional Fire and Rescue Force Heliport,heliport,CZ,49.988549,17.453671,1772.0,no
+CZ-0017,Krnov Hospital Heliport,heliport,CZ,50.096984,17.685183,1046.0,no
+CZ-0024,Chrudim Hospital Heliport,heliport,CZ,49.941085,15.808309,925.0,no
+CZ-0025,Domažlice Hospital Heliport,heliport,CZ,49.438409,12.90702,1521.0,no
+CZ-0027,Bulovka Heliport,heliport,CZ,50.116234,14.462503,845.0,no
+CZ-0030,Mělník Medical Rescue Service Heliport,heliport,CZ,50.351858,14.486858,557.0,no
+CZ-0031,Hořín Heliport,heliport,CZ,50.344516,14.438294,535.0,no
+CZ-0033,Hořovice Hospital Heliport,closed,CZ,49.840144,13.917671,1161.0,no
+CZ-0034,Klaudiánova Hospital Heliport,heliport,CZ,50.419011,14.907112,761.0,no
+CZ-0037,Masaryk Hospital Helistop,heliport,CZ,50.679862,14.020717,932.0,no
+CZ-0038,Chomutov Hospital Heliport,heliport,CZ,50.453617,13.411807,1099.0,no
+CZ-0039,Litoměřice Hospital Heliport,heliport,CZ,50.541735,14.146069,617.0,no
+CZ-0042,Havlíčkův Brod Hospital Helistop,heliport,CZ,49.610314,15.570486,1535.0,no
+CZ-0043,Jihlava Central Hospital Heliport,heliport,CZ,49.398525,15.567938,1752.0,no
+CZ-0045,Kroměříž Hospital Heliport,heliport,CZ,49.291194,17.379699,666.0,no
+CZ-0048,Borek Airfield,small_airport,CZ,50.210856,14.657693,557.0,no
+CZ-0051,Bezdružice Airstrip,small_airport,CZ,49.899713,12.964956,1991.0,no
+CZ-0052,Letisko Veľká Ida,small_airport,SK,48.5992279,21.1598857,,no
+CZ-0053,Bynovec Airfield,small_airport,CZ,50.821899,14.27174,,no
+CZ-0059,Chabeřice Private ULM Airstrip,small_airport,CZ,49.747569,15.06424,,no
+CZ-0062,Chotěšov Airfield,small_airport,CZ,49.651667,13.189722,1181.0,no
+CZ-0063,Kotvrdovice Airfield,small_airport,CZ,49.363986,16.784899,1860.0,no
+CZ-0064,Kramolín UL,small_airport,CZ,48.915,14.726389,1650.0,no
+CZ-0065,Jiřičky UL,small_airport,CZ,49.552222,15.155556,1683.0,no
+CZ-0066,Kaplice UL,small_airport,CZ,48.718611,14.450556,2100.0,no
+CZ-0067,Frymburk ULM,small_airport,CZ,48.698611,14.1975,2618.0,no
+CZ-0068,Dobšice Heliport,heliport,CZ,50.119489,15.280608,701.0,no
+CZ-0069,Druzcov u Lípy Ultralight Airfield,small_airport,CZ,50.727793,14.925241,1509.0,no
+CZ-0072,Buranos Aires Ultralight Strip,small_airport,CZ,50.008926,14.037743,1247.0,no
+CZ-0073,Bořitov ULM,small_airport,CZ,49.435539,16.593046,1247.0,no
+CZ-0074,Miroslav Aircon ULM,small_airport,CZ,48.931667,16.339722,715.0,no
+CZ-0076,Milovice Air Base,closed,CZ,50.236111,14.922222,650.0,no
+CZ-0077,Chřibská Airfield,small_airport,CZ,50.858193,14.46569,1260.0,no
+CZ-0082,Borovník Airfield,small_airport,CZ,49.358611,16.242222,,no
+CZ-0084,Dačice Airfield,closed,CZ,49.06986,15.456004,1621.0,no
+CZ-0085,Jehnědí Airfield,small_airport,CZ,49.965,16.309722,1476.0,no
+CZ-0086,Kunětice Airfield,small_airport,CZ,50.068333,15.8125,728.0,no
+CZ-0087,Charvátce Airfield,small_airport,CZ,50.433427,13.811113,915.0,no
+CZ-0088,Letovice Airfield,small_airport,CZ,49.546667,16.598611,,no
+CZ-0089,Lomnice nad Popelkou Airfield,small_airport,CZ,50.54,15.388056,,no
+CZ-0090,Boršice Airfield,small_airport,CZ,49.051508,17.367605,642.0,no
+CZ-0091,Horní Počáply Airstrip,small_airport,CZ,50.418117,14.384269,524.0,no
+CZ-0093,Boleradice Airfield,small_airport,CZ,48.961944,16.831667,649.0,no
+CZ-0095,Doudleby Airstrip,small_airport,CZ,48.885037,14.486375,1542.0,no
+CZ-0096,Hory Airfield,small_airport,CZ,50.21695,12.77669,1640.0,no
+CZ-0097,Dvorce,closed,CZ,48.99913,14.72214,1509.0,no
+CZ-0099,Bystřice nad Pernštejnem Airfield,small_airport,CZ,49.522778,16.232222,1942.0,no
+CZ-0100,Choteč Airfield,small_airport,CZ,50.433889,15.530556,1076.0,no
+CZ-0101,Dětřichov Oáza ULM,small_airport,CZ,49.729167,17.118056,751.0,no
+CZ-0107,Litoměřice Airstrip,closed,CZ,50.526515,14.18616,492.0,no
+CZ-0108,Bezno Airstrip,small_airport,CZ,50.356925,14.8068316,,no
+CZ-0109,Dušníky Ultralight Airfield,small_airport,CZ,50.412778,14.198056,728.0,no
+CZ-0110,Miroslav ULM,small_airport,CZ,48.931389,16.298611,781.0,no
+CZ-0112,Kralovice Airstrip,small_airport,CZ,49.985091,13.528817,,no
+CZ-0113,Katovice Airstrip,small_airport,CZ,49.268355,13.800776,,no
+CZ-0114,Dolní Tošanovice Airstrip,closed,CZ,49.682351,18.479829,,no
+CZ-0115,Kněžmost Airstrip,small_airport,CZ,50.478623,15.005508,,no
+CZ-0116,Dynín Airstrip,small_airport,CZ,49.128341,14.633441,,no
+CZ-0118,Kozojedy Airstrip,small_airport,CZ,50.325005,15.388904,,no
+CZ-0120,Ivančice u Brna ULM,small_airport,CZ,49.095374,16.480516,,no
+CZ-0121,Kelč Airstrip,small_airport,CZ,49.457771,17.820171,,no
+CZ-0122,Chotěnov Airstrip,closed,CZ,49.824177,16.194713,,no
+CZ-0125,Kněžice u Jičína Airfield,small_airport,CZ,50.262998,15.297407,712.0,no
+CZ-0130,Horní Libchava Ultralight Airfield,small_airport,CZ,50.703013,14.498985,899.0,no
+CZ-0132,Bojkovice Airfield,small_airport,CZ,49.030233,17.817857,1115.0,no
+CZ-0133,Křinec Airstrip,small_airport,CZ,50.2547,15.125108,646.0,no
+CZ-0135,Litomyšl ULM,small_airport,CZ,49.874138,16.336405,1258.0,no
+CZ-0138,Loučeň Airstrip,small_airport,CZ,50.278744,15.061007,636.0,no
+CZ-0139,Košice Airfield,closed,CZ,49.318055,14.749167,1516.0,no
+CZ-0141,Libkovice Airfield,closed,CZ,50.562216,13.683987,909.0,no
+CZ-0145,Lipová Sport Airfield,small_airport,CZ,51.008731,14.343853,1253.0,no
+CZ-0146,Jinošov Airstrip,small_airport,CZ,49.226931,16.176596,,no
+CZ-0147,Bánov Airstrip,small_airport,CZ,48.983399,17.704586,1007.0,no
+CZ-0149,Komárovice u Jihlavy ULM,closed,CZ,49.340112,15.669723,,no
+CZ-0150,Milotice Airstrip,closed,CZ,48.936188,17.124166,,no
+CZ-0151,Baška,closed,CZ,49.643056,18.351667,,no
+CZ-0153,Místek,small_airport,CZ,49.6527778,18.3458333,1066.0,no
+CZ-0154,Letiště Hať u Hlučína,small_airport,CZ,49.951812,18.265165,,no
+CZ-0156,Moravský Beroun,small_airport,CZ,49.786111,17.486111,2218.0,no
+CZ-0160,Milhostov u Chebu ULM,small_airport,CZ,50.164121,12.464089,1535.0,no
+CZ-0161,Luhačovice Airfield,small_airport,CZ,49.088188,17.718769,,no
+CZ-0162,Mladá Airfield,small_airport,CZ,50.243594,14.855856,,no
+CZ-0163,Excalibur City Airfield,small_airport,CZ,48.761552,16.055408,778.0,no
+CZ-0165,Kravi Hora Airfield,small_airport,CZ,48.917038,16.841317,584.0,no
+CZ-0166,Chvojenec Airstrip,small_airport,CZ,50.108633,15.926742,,no
+CZ-0167,Dolní Bojanovice Airstrip,small_airport,CZ,48.85482,17.01794,,no
+CZ-0169,Kejžlice Airfield,small_airport,CZ,49.591899,15.401365,1588.0,no
+CZ-0170,Budkovice Airfield,small_airport,CZ,49.078687,16.355617,,no
+CZ-0172,Letiště Orlová,small_airport,CZ,49.85503,18.43521,,no
+CZ-0175,Bobrová Ultralight Airfield,small_airport,CZ,49.4955,16.10199,1844.0,no
+CZ-0177,Luka nad Jihlavou ULM,small_airport,CZ,49.38244,15.71368,,no
+CZ-0178,Hrabice airstrip,small_airport,CZ,49.06812,13.7603,,no
+CZ-0180,Jestřabí v Krkonoších ULM,small_airport,CZ,50.68215,15.48237,2546.0,no
+CZ-0181,Manětín Airstrip,small_airport,CZ,49.982799,13.227839,1578.0,no
+CZ-0182,Kostelec Airstrip,small_airport,CZ,49.67076,13.03224,1581.0,no
+CZ-0183,Moravské Budějovice Airfield,small_airport,CZ,49.042693,15.828638,,no
+CZ-0184,Jilemnice Airstrip,small_airport,CZ,50.61056,15.538616,1776.0,no
+CZ-0185,Mříčná Airstrip,small_airport,CZ,50.59624,15.48122,,no
+CZ-0187,Domaželice Airstrip,small_airport,CZ,49.444719,17.541561,,no
+CZ-0190,Kněževes Airstrip,small_airport,CZ,49.4619,15.98493,,no
+CZ-0191,Kámen Air Base,closed,CZ,49.417778,14.993889,,no
+CZ-0192,Choceň Airstrip,small_airport,CZ,49.97728,16.184921,873.0,no
+CZ-0193,Mariánské Lázně Airfield,closed,CZ,49.922798,12.7247,1772.0,no
+CZ-0198,Brťov Airfield,small_airport,CZ,49.410857,16.499441,,no
+CZ-0199,Budíškovice Airstrip,small_airport,CZ,49.075525,15.546556,1752.0,no
+CZ-0203,Homolce Hospital Heliport,heliport,CZ,50.073731,14.354469,989.0,no
+CZ-0204,Children's Oncology Clinic Heliport,heliport,CZ,50.074352,14.351978,1017.0,no
+CZ-0205,Malešice Heliport,heliport,CZ,50.07431,14.535359,886.0,no
+CZ-0206,Kunratice Heliport,heliport,CZ,49.99995,14.48192,971.0,no
+CZ-0208,Děčín Heliport,heliport,CZ,50.78104,14.22768,684.0,no
+CZ-0209,Chrášťany Airfield,small_airport,CZ,50.05872,14.92307,876.0,no
+CZ-0210,Chotouň Heliport,heliport,CZ,50.05915,14.95774,830.0,no
+CZ-0211,Kladno Hospital Heliport,heliport,CZ,50.14026,14.08661,1352.0,no
+CZ-0215,Duchcov Municipal Hospital Heliport,heliport,CZ,50.60959,13.741837,739.0,no
+CZ-0216,Dlouhé Dvory Airfield,small_airport,CZ,50.26494,15.73942,941.0,no
+CZ-0220,Frýdlant Hospital Heliport,heliport,CZ,50.926004,15.088781,1063.0,no
+CZ-0222,Hranice Hospital Heliport,heliport,CZ,49.55564,17.74896,912.0,no
+CZ-0223,Brno University Hospital Bohunice Main Heliport,heliport,CZ,49.176311,16.572171,951.0,no
+CZ-0224,Brno University Hospital Bohunice Ground Heliport,heliport,CZ,49.17605,16.56811,922.0,no
+CZ-0225,Brno Trauma Hospital Heliport,heliport,CZ,49.19785,16.616,673.0,no
+CZ-0226,Brno Svatá Anna University Hospital Heliport,heliport,CZ,49.19073,16.600826,,no
+CZ-0228,Březno u Chomutova Airstrip,small_airport,CZ,50.40943,13.44546,1106.0,no
+CZ-0230,Most Hospital Heliport,heliport,CZ,50.503437,13.630541,991.0,no
+CZ-0231,Hubíles Airstrip,closed,CZ,50.28667,15.8926,803.0,no
+CZ-0232,Městec Králové City Hospital Heliport,heliport,CZ,50.20529,15.28764,712.0,no
+CZ-0233,Dvůr Králové nad Labem Hospital Heliport,heliport,CZ,50.44825,15.81447,1148.0,no
+CZ-0235,Kadaň Hospital Heliport,heliport,CZ,50.391048,13.271023,1027.0,no
+CZ-0236,Karlovy Vary Regional Hospital Helistop,heliport,CZ,50.23277,12.8765,1409.0,no
+CZ-0239,Litochovice u Strakonic Airstrip,small_airport,CZ,49.15434,13.95672,1781.0,no
+CZ-0240,Dědice u Vyškov Heliport,heliport,CZ,49.32003,16.977659,1248.0,no
+CZ-0241,Březí Falcon Airfield,small_airport,CZ,49.338891,16.23137,1680.0,no
+CZ-0242,Milovice UL,small_airport,CZ,50.237435,14.909992,650.0,no
+CZ-0244,Kostomlaty Airstrip,medium_airport,CZ,50.20843,14.92585,,no
+CZ-0245,Cebin Airfield,small_airport,CZ,49.318678,16.496816,1004.0,no
+CZ-0246,Chornice Airfield,small_airport,CZ,49.686095,16.730912,1129.0,no
+CZ-0247,Hlaska Airfield,small_airport,CZ,49.066944,14.241389,1430.0,no
+CZ-0248,Krpy Airfield,small_airport,CZ,50.325921,14.665533,803.0,no
+CZ-0249,Liban Airfield,small_airport,CZ,50.370444,15.201044,738.0,no
+CZ-0251,Horni Prim Airfield,small_airport,CZ,50.229313,15.702053,919.0,no
+CZ-0253,Kozmice Airstrip,small_airport,CZ,49.91333,18.1643,885.0,no
+CZ-0255,Kadaň Emergency Heliport,heliport,CZ,50.37313,13.28594,1014.0,no
+CZ-0256,Jarošov Airstrip,small_airport,CZ,49.18714,15.04273,,no
+CZ-0259,Litomyšl Heliport,heliport,CZ,49.86119,16.30487,1217.0,no
+CZ-0260,Lednice Power Station Heliport,heliport,CZ,50.57912,13.7822,653.0,no
+CZ-0262,Louny Hospital Heliport,heliport,CZ,50.34897,13.80759,771.0,no
+CZ-0263,Czech Army Ammunition Depot Heliport,heliport,CZ,50.07413,16.12341,889.0,no
+CZ-0264,Jablonec nad Nisou Hospital Heliport,heliport,CZ,50.72751,15.1619,1677.0,no
+CZ-0268,Holešov Airport,closed,CZ,49.3143997,17.5688992,761.0,no
+CZ-0270,Bechyně Air Base,closed,CZ,49.2736,14.5018,1448.0,no
+CZ-0272,Blátna Air Base,closed,CZ,49.431173,13.797095,1594.0,no
+CZ-0273,Hradčany Airfield,small_airport,CZ,50.619247,14.732753,912.0,no
+CZ-0276,Brusné Airfield,small_airport,CZ,49.367884,17.652277,1033.0,no
+CZ-0277,Lukla Airstrip,small_airport,CZ,50.511019,13.339142,2172.0,no
+CZ-0280,Kokašice Heliport,heliport,CZ,49.877125,12.945714,1742.0,no
+CZ-0281,Bitozeves Airfield,small_airport,CZ,50.372723,13.633981,764.0,no
+CZ-0283,Lochousice,small_airport,CZ,49.674905,13.099417,1289.0,no
+CZ-0284,Jeneč Airstrip,small_airport,CZ,50.0825,14.222778,1243.0,no
+CZ-0286,Jilmovi Ultralight Strip,small_airport,CZ,49.3983,16.32169,,no
+CZ-0288,Bošovice Airstrip,small_airport,CZ,49.060506,16.843395,,no
+CZ-0290,Martinov Heliport,heliport,CZ,49.855406,18.188242,732.0,no
+CZ-0292,Budkov Airstrip,small_airport,CZ,49.071779,15.659542,1872.0,no
+EPAR,Arłamów Airfield,small_airport,PL,49.657501,22.514298,1455.0,no
+EPBA,Bielsko-Biała Aleksandrowice Airfield,small_airport,PL,49.805,19.0019,1319.0,no
+EPBB,Babięta,small_airport,PL,53.667905,21.255426,,no
+EPBG,Gołubie Heliport,heliport,PL,54.1975,18.0025,558.0,no
+EPBH,Bydgoszcz Baza Lpr Heliport,heliport,PL,53.210278,18.101667,313.0,no
+EPBK,Białystok-Krywlany Airfield,small_airport,PL,53.101398,23.170601,502.0,no
+EPBY,Ignacy Jan Paderewski Bydgoszcz Airport,medium_airport,PL,53.096802,17.977699,235.0,yes
+EPCD,Depułtycze Królewskie Airfield,small_airport,PL,51.082067,23.437014,712.0,no
+EPCE,Cewice Naval Air Base,medium_airport,PL,54.416525,17.765734,495.0,no
+EPDA,Darłówo Naval Air Base,small_airport,PL,54.404701,16.3531,10.0,no
+EPDE,Deblin Military Air Base,medium_airport,PL,51.551021,21.892322,392.0,no
+EPDK,Debowa Klada Airfield,small_airport,PL,51.6126,23.0072,,no
+EPEL,Elbląg Airfield,small_airport,PL,54.1408,19.4233,10.0,no
+EPGD,Gdańsk Lech Wałęsa Airport,large_airport,PL,54.377602,18.4662,489.0,yes
+EPGE,Giże Airfield,small_airport,PL,53.982436,22.403149,,no
+EPGI,Grudziądz Lisie Kąty Airfield,small_airport,PL,53.524399,18.849199,121.0,no
+EPGL,Gliwice-Trynek Airfield,small_airport,PL,50.268743,18.672466,830.0,no
+EPGM,Giżycko-Mazury Residence,small_airport,PL,54.00645,21.81824,410.0,no
+EPGS,Grójec-Słomczyn Airfield,small_airport,PL,51.87549,20.93774,,no
+EPGY,Grądy Airfield,small_airport,PL,52.836977,21.777644,407.0,no
+EPIN,Inowrocław Airfield,small_airport,PL,52.806155,18.283133,279.0,no
+EPIR,Inowroclaw Military Air Base,medium_airport,PL,52.829399,18.330601,259.0,no
+EPJA,Jastarnia Airfield,small_airport,PL,54.710281,18.645281,3.0,no
+EPJG,Jelenia Góra Airfield,small_airport,PL,50.898899,15.7856,1119.0,no
+EPJL,Laszki Field,small_airport,PL,50.008497,22.918897,607.0,no
+EPJS,Jeżów Sudecki Airfield,small_airport,PL,50.944028,15.766528,1834.0,no
+EPKA,Kielce-Masłów Airfield,small_airport,PL,50.896702,20.731701,1010.0,no
+EPKB,Kazimierz Biskupi Airfield,small_airport,PL,52.319549,18.164322,361.0,no
+EPKD,Końskie-Komaszyce,small_airport,PL,51.25532,20.47132,,no
+EPKE,Kȩtrzyn-Wilamowo Airfield,small_airport,PL,54.047144,21.426121,417.0,no
+EPKI,Kikity,small_airport,PL,53.9829,20.877218,564.0,no
+EPKK,Kraków John Paul II International Airport,large_airport,PL,50.077702,19.7848,791.0,yes
+EPKL,Krasocin Field,small_airport,PL,50.899319,20.12804,820.0,no
+EPKM,Katowice-Muchowiec Airfield,small_airport,PL,50.238184,19.033685,909.0,no
+EPKR,Krosno Airfield,small_airport,PL,49.683807,21.740953,922.0,no
+EPKS,Krzesiny Military Air Base,medium_airport,PL,52.331699,16.9664,265.0,no
+EPKT,Katowice Wojciech Korfanty International Airport,large_airport,PL,50.476015,19.080705,995.0,yes
+EPKW,Bielsko-Biała Kaniów Airfield,small_airport,PL,49.94159,19.019566,839.0,no
+EPKX,Kokotowie LPR HEMS Heliport,heliport,PL,50.022818,20.070335,651.0,no
+EPLB,Lublin Airport,large_airport,PL,51.240157,22.713461,633.0,yes
+EPLR,Lublin Radwiec Airfield,small_airport,PL,51.221901,22.394699,791.0,no
+EPLS,Leszno-Strzyzewice Airfield,small_airport,PL,51.834999,16.5219,310.0,no
+EPLU,Lubin Airfield,small_airport,PL,51.423,16.196199,512.0,no
+EPLY,Leźnica Wielka Air Base,medium_airport,PL,52.004945,19.143792,404.0,no
+EPMB,Malbork Królewo Air Base,medium_airport,PL,54.026598,19.135718,16.0,no
+EPMI,Miroslawiec Military Air Base,medium_airport,PL,53.3951,16.0828,459.0,no
+EPML,Mielec Airfield,small_airport,PL,50.3223,21.462099,548.0,no
+EPMM,Minsk Mazowiecki Military Air Base,medium_airport,PL,52.1954994202,21.6558990479,604.0,no
+EPMR,Mirosławice Private Airfield,small_airport,PL,50.957802,16.7703,495.0,no
+EPMX,Milewo Airfield,small_airport,PL,52.665208,20.428419,325.0,no
+EPMY,Myślibórz-Giżyn Airfield,small_airport,PL,52.941164,15.029812,230.0,no
+EPRD,Mazury Air Camp Airfield,small_airport,PL,54.134375,21.598754,398.0,no
+EPRU,Częstochowa-Rudniki Airport,small_airport,PL,50.884716,19.201842,860.0,no
+EPWR,Copernicus Wrocław Airport,large_airport,PL,51.103719,16.882096,404.0,yes
+EPZK,Konopnica Airfield,small_airport,PL,51.360179,18.822057,,no
+HU-0001,Kákahalom Airfield,small_airport,HU,46.803936,20.527838,256.0,no
+HU-0002,Kalocsa-Foktő Airfield,medium_airport,HU,46.55149,18.942299,299.0,no
+HU-0003,Matkópuszta Airfield,small_airport,HU,46.800343,19.68257,367.0,no
+HU-0004,Mezőkövesd Air Base,closed,HU,47.81518,20.635585,357.0,no
+HU-0005,Hódmezővásárhely  Airport,closed,HU,46.456257,20.392963,259.0,no
+HU-0007,Börgönd Airfield,small_airport,HU,47.129833,18.50029,392.0,no
+HU-0009,Kenderes Airfield,closed,HU,47.269824,20.689702,268.0,no
+HU-0010,Kunmadaras Air Base,small_airport,HU,47.390839,20.785009,279.0,no
+HU-0012,Cserszegtomaj-Hévíz Airfield,small_airport,HU,46.809114,17.19974,381.0,no
+HU-0013,Baja Airfield,small_airport,HU,46.145347,19.043172,378.0,no
+HU-0014,Balatonkeresztúr Airfield,small_airport,HU,46.693034,17.397773,337.0,no
+HU-0015,Dáka Sport Airfield,small_airport,HU,47.271801,17.4105,492.0,no
+HU-0016,Ballószög Airfield,small_airport,HU,46.8618,19.5566,393.0,no
+HU-0017,Gyõrszentiván-Bõny Airfield,small_airport,HU,47.6672,17.784801,490.0,no
+HU-0018,Balatonfőkajár Airfield,small_airport,HU,47.0065,18.21188,,no
+HU-0019,Bátonyterenye-Világosipuszta sportreptér,small_airport,HU,48.025531,19.805066,869.0,no
+HU-0023,Hódmezővásárhely Airfield,small_airport,HU,46.384444,20.308333,262.0,no
+HU-0025,Balatonlelle Glider Field,small_airport,HU,46.760514,17.689823,423.0,no
+HU-0026,Dány Airfield,small_airport,HU,47.500436,19.504709,591.0,no
+HU-0029,Atkár Airfield,small_airport,HU,47.720908,19.904652,370.0,no
+HU-0031,Balatonederics Airfield,small_airport,HU,46.784913,17.378794,,no
+HU-0032,Mezőhegyes,small_airport,HU,46.296989,20.813389,,no
+HU-0033,Hajmáskér Airfield,small_airport,HU,47.142891,17.997437,,no
+HU-0034,Aranyos,closed,HU,48.297055,21.222908,,no
+HU-0035,Dunabogdány Airfield,small_airport,HU,47.774341,19.062484,377.0,no
+HU-0037,Kerekharaszt,closed,HU,47.678889,19.644167,407.0,no
+HU-0038,Inárcs Airfield,small_airport,HU,47.263641,19.313225,,no
+HU-0039,Gyomaendrőd,small_airport,HU,46.9112958,20.7615195,,no
+HU-0040,Kiskunhalas-Füzespuszta Airfield,small_airport,HU,46.36935,19.477426,426.0,no
+HU-0041,Felsőráda Airstrip,small_airport,HU,47.264102,19.173974,,no
+HU-0043,Mórahalom Airstrip,small_airport,HU,46.251378,19.949197,292.0,no
+HU-0044,Dévaványa Airfield,small_airport,HU,47.011512,20.982331,,no
+HU-0045,Bácsbokod Border Police Heliport,heliport,HU,46.10847,19.15722,358.0,no
+HU-0046,Jászapáti Agricultural Airfield,small_airport,HU,47.521857,20.16257,295.0,no
+HU-0047,Csikéria Airstrip,small_airport,HU,46.11381,19.48895,407.0,no
+HU-0048,Mátyásföldi Heliport,heliport,HU,47.50095,19.201027,,no
+HU-0049,Kislőd Airstrip,small_airport,HU,47.1336,17.640073,1319.0,no
+HU-0050,Földes Airfield,small_airport,HU,46.96852,17.84473,,no
+HU-0052,Becsehely Airstrip,small_airport,HU,46.432148,16.778913,456.0,no
+HU-0053,Lentikápolna Airstrip,closed,HU,46.6525,16.534252,561.0,no
+HU-0056,Balkány Airfield,small_airport,HU,47.771461,21.815028,430.0,no
+HU-0057,Alsónémedi Recreational Airfield,closed,HU,47.286706,19.183848,,no
+HU-0058,Hungaroring GoKart Center Heliport,heliport,HU,47.5783,19.25113,767.0,no
+HU-0059,Merényi Gusztàv Kórhàz Heliport,heliport,HU,47.4657,19.09962,380.0,no
+HU-0062,ESRE Glider Field,small_airport,HU,47.43479,18.78092,,no
+HU-0063,Martfű Airstrip,small_airport,HU,47.01397,20.28573,-2.0,no
+HU-0064,Halászi Airstrip,small_airport,HU,47.89016,17.34828,390.0,no
+HU-0067,Gyula Kálmán Pándy Hospital Heliport,heliport,HU,46.64028,21.27588,,no
+HU-0069,Markusovszky Hospital Heliport,heliport,HU,47.2384,16.61823,,no
+HU-0073,Albert Schweitzer Hospital Heliport,heliport,HU,47.671881,19.681386,390.0,no
+HU-0074,Csákvár Air Base,closed,HU,47.350899,18.43,1000.0,no
+HU-0075,Miskolc Airfield,closed,HU,48.13603,20.789641,390.0,no
+HU-0076,Gyomai Airfield,closed,HU,46.956165,20.883123,265.0,no
+HU-0078,Balassagyarmat Airfield,closed,HU,48.078037,19.321749,466.0,no
+HU-0081,Miskolc Heliport,heliport,HU,48.13071,20.792152,380.0,no
+LB29,Maslarevo Airstrip,small_airport,BG,43.405399,25.474001,349.0,no
+LB31,Levski Airfield,small_airport,BG,43.3694,25.149099,150.0,no
+LB33,Leskovo Airfield,small_airport,BG,43.724185,27.690751,700.0,no
+LB35,Golyama Smolnitsa Airstrip,small_airport,BG,43.627269,27.695203,810.0,no
+LB42,Kamenets Air Base,small_airport,BG,43.327301,25.003401,420.0,no
+LBAM,Alfa-Metal Airfield,small_airport,BG,42.948664,25.358928,2026.0,no
+LBBA,Bahovitsa Airfield,small_airport,BG,43.206111,24.655556,1280.0,no
+LBBG,Burgas Airport,large_airport,BG,42.569917,27.515173,135.0,yes
+LBBO,Bohot Airfield,small_airport,BG,43.306875,24.691729,1162.0,no
+LBBQ,Byala Airfield,small_airport,BG,43.463484,25.711613,210.0,no
+LBBZ,Bazan Airstrip,small_airport,BG,43.728429,26.119696,579.0,no
+LBDA,Daskal-Atanasovo Airfield,small_airport,BG,42.321322,25.893692,423.0,no
+LBDB,Dolna Banya Airfield,small_airport,BG,42.309091,23.820177,1779.0,no
+LBGI,Gorski Izvor Airstrip,small_airport,BG,42.035833,25.408333,164.0,no
+LBGO,Gorna Oryahovitsa Airport,medium_airport,BG,43.151402,25.7129,285.0,no
+LBGR,Grivitsa Airfield,small_airport,BG,43.414941,24.733714,919.0,no
+LBHT,Ihtiman Airfield,small_airport,BG,42.42189,23.767221,2113.0,no
+LBKJ,Kaynardzha Airfield,small_airport,BG,43.969999,27.469754,575.0,no
+LBKL,Kalvacha Airfield,small_airport,BG,42.585997,25.426976,1083.0,no
+LBLN,Lozen Heliport,heliport,BG,42.618534,23.500622,1923.0,no
+LBLS,Lesnovo Airfield,small_airport,BG,42.632465,23.650102,1825.0,no
+LBMA,Maritsa Airfield,small_airport,BG,42.2652,24.7205,630.0,no
+LBMD,Dinevi Marina Helipad,heliport,BG,42.706448,27.766361,3.0,no
+LBML,Malenovo Heliport,heliport,BG,42.56004,26.776538,482.0,no
+LBMO,Montana Airfield,small_airport,BG,43.382619,23.263203,778.0,no
+LBPG,Graf Ignatievo Air Base,medium_airport,BG,42.290401,24.714001,190.0,no
+LBPL,Dolna Mitropoliya Air Base,medium_airport,BG,43.451771,24.502423,330.0,no
+LBRD,Erden Airfield,small_airport,BG,43.499168,23.304722,617.0,no
+LBWB,Balchik Airfield,medium_airport,BG,43.423801,28.181299,660.0,no
+LBWC,Chayka Naval Air Base,heliport,BG,43.188139,27.848255,7.0,no
+LH0,Hertelendy Kastély Field,small_airport,HU,46.373168,17.428007,469.0,no
+LHBB,Légimentő bázis,heliport,HU,47.4545191,18.9072779,,no
+LHBC,Békéscsaba Airfield,small_airport,HU,46.677132,21.161188,286.0,no
+LHBF,Bükfördö Airfield,small_airport,HU,47.3848,16.80264,545.0,no
+LHBI,Biharkeresztes Airfield,small_airport,HU,47.137425,21.675425,302.0,no
+LHBO,Bácsbokod Airfield,small_airport,HU,46.153445,19.149051,512.0,no
+LHBP,Budapest Liszt Ferenc International Airport,large_airport,HU,47.43018,19.262393,495.0,yes
+LHBS,Budaörs Airfield,small_airport,HU,47.451099,18.9806,413.0,no
+LHCL,Cegléd Airfield,small_airport,HU,47.162621,19.877401,315.0,no
+LHDC,Debrecen International Airport,large_airport,HU,47.489469,21.616278,359.0,yes
+LHDK,Dunakeszi Airfield,small_airport,HU,47.613899,19.143299,397.0,no
+LHDV,Dunaújváros Airfield,small_airport,HU,46.895802,18.9139,394.0,no
+LHEM,Esztergom Ernő Rubik Airfield,small_airport,HU,47.756811,18.730459,342.0,no
+LHER,Eger Apolló Airfield,small_airport,HU,47.9052,20.4055,790.0,no
+LHFC,Bodmér-Felcsút Airfield,small_airport,HU,47.444629,18.557102,492.0,no
+LHFH,Farkashegy Airfield,small_airport,HU,47.486196,18.915263,690.0,no
+LHFM,Fertőszentmiklós Airfield,small_airport,HU,47.582802,16.8454,440.0,no
+LHGD,Gödöllő Airfield,small_airport,HU,47.571662,19.336796,715.0,no
+LHGR,Gyúró Airfield,small_airport,HU,47.391333,18.756989,640.0,no
+LHGU,Győrújbarát Heliport,heliport,HU,47.605143,17.660188,397.0,no
+LHGY,Gyöngyös Pipishegy Airfield,small_airport,HU,47.814279,19.976792,1150.0,no
+LHHH,Hármashatárhegy Glider Field,small_airport,HU,47.551503,18.976386,960.0,no
+LHHO,Hajdúszoboszló Airfield,small_airport,HU,47.459717,21.390904,335.0,no
+LHJK,Jakabszállás Airfield,small_airport,HU,46.747855,19.604754,348.0,no
+LHKC,Kecel Heliport,heliport,HU,46.536443,19.241458,323.0,no
+LHKD,Kecskéd Airfield,small_airport,HU,47.517121,18.325024,570.0,no
+LHKE,Kecskemét Air Base,medium_airport,HU,46.9175,19.749201,376.0,no
+LHKH,Kiskunfélegyháza Airfield,small_airport,HU,46.733101,19.893299,289.0,no
+LHKI,Kiskőrös-Akasztó Airfield,small_airport,HU,46.656791,19.242997,305.0,no
+LHKK,Kiskunlacháza Airfield,small_airport,HU,47.174484,19.077501,322.0,no
+LHKT,Kadarkút Airfield,small_airport,HU,46.247418,17.607822,,no
+LHKV,Kaposvar Kaposújlak Airfield,small_airport,HU,46.386398,17.733479,499.0,no
+LHLI,Lipót Szigetköz Airfield,small_airport,HU,47.8575,17.448333,377.0,no
+LHMR,Maklár Airfield,small_airport,HU,47.811857,20.422254,424.0,no
+LHPR,Győr-Pér Airport,medium_airport,HU,47.628436,17.804718,424.0,yes
+LHSM,Hévíz–Balaton Airport,medium_airport,HU,46.686391,17.159084,408.0,yes
+LKBA,Břeclav Airfield,small_airport,CZ,48.790439,16.892531,531.0,no
+LKBD,Brodek u Přerova Heliport,heliport,CZ,49.483889,17.326944,668.0,no
+LKBE,Benešov Airfield,small_airport,CZ,49.740799,14.6447,1319.0,no
+LKBO,Bohuňovice Airfield,small_airport,CZ,49.670601,17.295,771.0,no
+LKBR,Broumov Airfield,small_airport,CZ,50.561901,16.3428,1342.0,no
+LKBU,Bubovice Airfield,small_airport,CZ,49.9744,14.1781,1401.0,no
+LKCB,Cheb Airfield,small_airport,CZ,50.066101,12.4117,1585.0,no
+LKCH,Chomutov Airfield,small_airport,CZ,50.468899,13.4681,1132.0,no
+LKCM,Medlánky Airfield,small_airport,CZ,49.236698,16.555,853.0,no
+LKCO,Chodová Planá Heliport,heliport,CZ,49.901199,12.741704,1783.0,no
+LKCR,Chrudim Airfield,small_airport,CZ,49.936401,15.7806,981.0,no
+LKCT,Chotěboř Airfield,small_airport,CZ,49.685799,15.6761,1949.0,no
+LKDK,Dvůr Králové nad Labem Airfield,small_airport,CZ,50.4142,15.8369,932.0,no
+LKER,Erpužice Airfield,small_airport,CZ,49.802799,13.0381,1572.0,no
+LKFM,Frýdek-Místek Hospital Helistop,heliport,CZ,49.691047,18.354977,1200.0,no
+LKFR,Frýdlant Airfield,small_airport,CZ,49.589401,18.3792,1440.0,no
+LKHA,Havířov Heliport,heliport,CZ,49.783668,18.439745,919.0,no
+LKHB,Havlíčkův Brod Airfield,small_airport,CZ,49.597198,15.5492,1519.0,no
+LKHC,Hořice Airfield,small_airport,CZ,50.3576,15.576983,922.0,no
+LKHD,Hodkovice nad Mohelkou Airfield,small_airport,CZ,50.6572,15.0778,1480.0,no
+LKHK,Hradec Králové Airport,small_airport,CZ,50.253201,15.8452,791.0,no
+LKHN,Hranice Airfield,small_airport,CZ,49.5461,17.704399,797.0,no
+LKHS,Hosín Airfield,small_airport,CZ,49.040001,14.495,1621.0,no
+LKHV,Hořovice Airfield,small_airport,CZ,49.848099,13.8935,1214.0,no
+LKJA,Jaroměř Airfield,small_airport,CZ,50.331402,15.9539,889.0,no
+LKJC,Jičín Airfield,small_airport,CZ,50.43,15.3331,863.0,no
+LKJE,Jesenik Heliport,heliport,CZ,50.221599,17.186628,1511.0,no
+LKJH,Jindřichův Hradec Airfield,small_airport,CZ,49.150682,14.972413,1667.0,no
+LKJI,Jihlava Airfield,small_airport,CZ,49.419399,15.6353,1821.0,no
+LKKA,Křižanov Airfield,small_airport,CZ,49.368301,16.1161,1831.0,no
+LKKC,Kříženec Planá Airfield,small_airport,CZ,49.870602,12.7725,2076.0,no
+LKKE,Karlov Heliport,heliport,CZ,49.163774,13.426952,2577.0,no
+LKKL,Kladno Airfield,small_airport,CZ,50.112801,14.0897,1421.0,no
+LKKM,Kroměříž Airfield,small_airport,CZ,49.285599,17.4158,620.0,no
+LKKO,Kolín Airfield,small_airport,CZ,50.0019,15.1733,932.0,no
+LKKR,Krnov Airfield,small_airport,CZ,50.074407,17.695219,1230.0,no
+LKKT,Klatovy Josef Hubáč Airfield,small_airport,CZ,49.418301,13.3219,1299.0,no
+LKKU,Kunovice Airport,medium_airport,CZ,49.0294,17.439699,581.0,no
+LKKV,Karlovy Vary Airport,large_airport,CZ,50.202999,12.915,1989.0,yes
+LKKY,Kyjov Airfield,small_airport,CZ,48.98,17.124701,689.0,no
+LKLA,Liberec Heliport,heliport,CZ,50.733859,15.037578,1405.0,no
+LKLB,Liberec Airfield,small_airport,CZ,50.767053,15.023071,1329.0,no
+LKLC,Liberec Regional Hospital Helistop,heliport,CZ,50.77001,15.06394,1358.0,no
+LKLK,Kbely Heliport,heliport,CZ,50.13361,14.536698,908.0,no
+LKLT,Letňany Airfield,small_airport,CZ,50.131401,14.5256,909.0,no
+LKMB,Mladá Boleslav Airfield,small_airport,CZ,50.3983,14.8983,781.0,no
+LKMH,Mnichovo Hradiště Airport,small_airport,CZ,50.540199,15.0066,800.0,no
+LKMI,Mikulovice Airfield,small_airport,CZ,50.301701,17.297501,1381.0,no
+LKMK,Moravská Třebová Airfield,small_airport,CZ,49.798302,16.687799,1322.0,no
+LKMO,Most Airfield,small_airport,CZ,50.525002,13.6831,1089.0,no
+LKMT,Leoš Janáček Airport Ostrava,large_airport,CZ,49.696301,18.111099,844.0,yes
+LKPL,Letkov Airfield,small_airport,CZ,49.723099,13.4522,1371.0,no
+LKTB,Brno-Tuřany Airport,medium_airport,CZ,49.151276,16.693972,778.0,yes
+LKUH,Mařatice Heliport,heliport,CZ,49.079886,17.485136,590.0,no
+LKVY,Letiště Vyškov,small_airport,CZ,49.300301,17.025299,922.0,no
+LR79,Ianca Airfield,small_airport,RO,45.158655,27.43093,131.0,no
+LR80,Feteşti Borcea Air Base,medium_airport,RO,44.3923,27.7267,180.0,no
+LR82,Boboc Air Base,medium_airport,RO,45.2164,26.9786,344.0,no
+LRAR,Arad International Airport,medium_airport,RO,46.176136,21.264322,352.0,yes
+LRBC,Bacău George Enescu International  Airport,large_airport,RO,46.5219,26.910299,607.0,yes
+LRBG,IAR Brașov / Airbus Helicopters Heliport,heliport,RO,45.695845,25.534013,1744.0,no
+LRBK,Moara Vlasiei (Becker Aviation) Heliport,heliport,RO,44.633011,26.197479,292.0,no
+LRBM,Maramureș International Airport,medium_airport,RO,47.658444,23.464445,605.0,yes
+LRBN,Bistrița Airfield,small_airport,RO,47.158575,24.552311,,no
+LRBS,Bucharest Băneasa Aurel Vlaicu International Airport,large_airport,RO,44.503133,26.102944,297.0,yes
+LRBV,Brașov-Ghimbav International Airport,large_airport,RO,45.70558,25.522871,1740.0,yes
+LRCD,Măgura Airfield,small_airport,RO,45.737222,24.165278,1524.0,no
+LRCK,Mihail Kogălniceanu International Airport,large_airport,RO,44.362202,28.4883,353.0,yes
+LRCL,Avram Iancu Cluj International Airport,large_airport,RO,46.786042,23.685733,1039.0,yes
+LRCN,Clinceni Airfield,small_airport,RO,44.35902,25.93196,,no
+LRCS,Caransebeş Airport,medium_airport,RO,45.420142,22.252507,866.0,no
+LRCT,Câmpia Turzii Air Base,medium_airport,RO,46.5023,23.8859,1083.0,no
+LRCV,Craiova International Airport,large_airport,RO,44.3181,23.888599,626.0,yes
+LRFB,Fagu Balc Heliport,heliport,RO,47.3425,22.575,599.0,no
+LRFL,Floreni Airfield,small_airport,RO,47.362846,25.21191,2908.0,no
+LRIA,Iaşi International Airport,large_airport,RO,47.179633,27.621431,411.0,yes
+LRMA,Mir Aero Heliport,heliport,RO,45.687288,25.527105,1765.0,no
+LROP,Bucharest Henri Coandă International Airport,large_airport,RO,44.571792,26.103285,314.0,yes
+LRPT,Geamăna Airfield,small_airport,RO,44.817504,24.897822,1001.0,no
+LSKV,Kvetoslavov Airfield,small_airport,SK,48.04507,17.34963,,no
+LZBD,Bidovce Airfield,small_airport,SK,48.743186,21.448205,984.0,no
+LZDV,Dubová Airstrip,small_airport,SK,48.347019,17.356583,634.0,no
+LZHL,Holič Airfield,small_airport,SK,48.8103,17.1338,520.0,no
+LZIB,M. R. Štefánik Airport,large_airport,SK,48.1702,17.2127,436.0,yes
+LZJS,Jasná Airfield,small_airport,SK,49.047939,19.506791,2103.0,no
+LZKC,Kamenica nad Cirochou Airfield,small_airport,SK,48.936242,21.994196,560.0,no
+LZKZ,Košice International Airport,medium_airport,SK,48.663101,21.2411,755.0,yes
+LZLU,Lučenec Airfield,small_airport,SK,48.339401,19.7358,,no
+LZMA,Martin Airfield,small_airport,SK,49.0653,18.9508,1381.0,no
+LZMC,Malacky/Kuchyňa Air Base,medium_airport,SK,48.402,17.118401,679.0,no
+LZPT,Male Bielice-Partizánske Airfield,small_airport,SK,48.619202,18.3297,600.0,no
+PL-0002,Kołobrzeg-Bagicz Airfield,small_airport,PL,54.200077,15.683752,20.0,no
+PL-0003,Makowice Airfield,small_airport,PL,53.761082,15.290194,,no
+PL-0004,Borsk Airfield,small_airport,PL,53.951046,17.948034,466.0,no
+PL-0005,Broczyno Air Base,closed,PL,53.51944351196289,16.28416633605957,499.0,no
+PL-0006,Brzeg-Skarbimierz Air Base,closed,PL,50.836945,17.41361,505.0,no
+PL-0007,Chojna Airfield,small_airport,PL,52.939445,14.421667,187.0,no
+PL-0009,Dęblin-Ułęż Air Base,closed,PL,51.619167,22.101667,558.0,no
+PL-0010,Debrzno Airfield,closed,PL,53.524425,17.258319,509.0,no
+PL-0011,Gdańsk-Wrzeszcz Air Base,closed,PL,54.39611053466797,18.602500915527344,,no
+PL-0012,Gostyń-Gola Air Base,closed,PL,51.88722229003906,16.976110458374023,354.0,no
+PL-0013,Gorzów Wielkopolski Hospital Helipad,heliport,PL,52.760165,15.235376,,no
+PL-0014,Brzezie Highway Strip,small_airport,PL,53.814197,16.977513,499.0,no
+PL-0015,Chociw  (Kanice) Highway Strip,small_airport,PL,51.656912,20.273529,531.0,no
+PL-0016,Debrzno (Słupia) Highway Strip,small_airport,PL,53.570662,17.26088,525.0,no
+PL-0017,Dębnica Kaszubska Highway Strip,small_airport,PL,54.368483,17.211674,210.0,no
+PL-0018,Gdynia (Rumia) Highway Strip,small_airport,PL,54.604698,18.4431,36.0,no
+PL-0019,Granowo Highway Strip,small_airport,PL,52.232200622558594,16.596900939941406,249.0,no
+PL-0020,Jarosławiec Highway Strip,small_airport,PL,54.525002,16.506399,16.0,no
+PL-0021,Kliniska  (Szczecin) Highway Strip,small_airport,PL,53.427439,14.805435,49.0,no
+PL-0022,Koronowo Highway Strip,small_airport,PL,53.3114013671875,18.01059913635254,305.0,no
+PL-0023,Leszno  (Rydzyna) Highway Strip,small_airport,PL,51.81499862670898,16.623899459838867,308.0,no
+PL-0025,Machliny Highway Strip,small_airport,PL,53.458327,16.371672,449.0,no
+PL-0026,Mieszkowice Highway Strip,small_airport,PL,52.750301361083984,14.511699676513672,164.0,no
+PL-0027,Mirosławiec  (Nowe Laski) Highway Strip,small_airport,PL,53.38610076904297,16.15690040588379,495.0,no
+PL-0028,Mostowo Highway Strip,small_airport,PL,54.069199,16.537201,276.0,no
+PL-0035,Aleksandrów Łódzki Airport,closed,PL,51.7906,19.27,623.0,no
+PL-0036,Lotnisko Białousy,small_airport,PL,53.40472,23.228331,587.0,no
+PL-0037,Bezmiechowa Airfield,small_airport,PL,49.518996,22.409148,2014.0,no
+PL-0038,Brochocin Air Base,closed,PL,51.203331,15.93278,663.0,no
+PL-0040,Lotnisko Sportowe Gubin,small_airport,PL,51.99179,14.7319853,,no
+PL-0041,Dębica Air Base,closed,PL,53.943611,15.62028,161.0,no
+PL-0042,Dęblin-Podlodów Air Base,closed,PL,51.62722,22.198059,522.0,no
+PL-0043,Dębno Polskie Airfield,closed,PL,51.59444,16.8675,305.0,no
+PL-0044,Goszczanów Airfield,closed,PL,51.799687,18.491781,446.0,no
+PL-0045,Jaworze Airfield,closed,PL,53.31139,15.71389,344.0,no
+PL-0046,Kraków-Łęg Heliport,heliport,PL,50.06071,20.012423,636.0,no
+PL-0047,Kroczewo Airstrip,closed,PL,52.47361,20.539169,335.0,no
+PL-0048,Krzewica Airport,closed,PL,52.05389,22.70056,509.0,no
+PL-0050,Międzylesie Airport,closed,PL,52.216942,21.198891,322.0,no
+PL-0061,Drahimek Airfield,small_airport,PL,53.614404,16.185951,476.0,no
+PL-0068,Krzywa Air Base,closed,PL,51.310001373291016,15.725000381469728,,no
+PL-0069,Gozdnica Airfield,small_airport,PL,51.459999084472656,15.104999542236328,,no
+PL-0072,Bystrzyca Klodzka Airfield,small_airport,PL,50.308715,16.645908,1291.0,no
+PL-0074,Kakolewo (former military),small_airport,PL,52.235001,16.243,331.0,no
+PL-0077,Konstancin-Jeziorna Airfield,small_airport,PL,52.07500076293945,21.187000274658203,,no
+PL-0078,Lipki Wielkie Airfield,small_airport,PL,52.715915,15.51115,,no
+PL-0079,Lotnisko Turośń Kościelna,closed,PL,53.003022,23.057806,,no
+PL-0081,Działyń Airstrip,small_airport,PL,52.603819,17.477329,,no
+PL-0083,Kazimierza Mała Airfield,small_airport,PL,50.260283,20.541402,615.0,no
+PL-0086,Lwówek Airport,closed,PL,51.128283,15.570464,,no
+PL-0088,Baranów Airfield,small_airport,PL,52.122083,20.48175,295.0,no
+PL-0089,Korne Airfield,small_airport,PL,54.129767,17.845354,515.0,no
+PL-0091,Baryt Air Base,small_airport,PL,51.055531,16.013636,,no
+PL-0092,Annowo Airstrip,small_airport,PL,52.803389,17.879678,350.0,no
+PL-0093,Lądowisko Wilga,small_airport,PL,51.8816709,21.3653123,,no
+PL-0094,Golędzinów Airstrip,small_airport,PL,51.262749,16.921832,456.0,no
+PL-0096,Chełmżyca Airstrip,small_airport,PL,53.670487,19.46115,323.0,no
+PL-0099,Grabowiec Airstrip,small_airport,PL,51.901197,15.270643,,no
+PL-0101,Makosieje Airfield,small_airport,PL,53.807373,22.540594,,no
+PL-0103,Kamieńsk-Orla Góra Airfield,small_airport,PL,51.22536,19.418021,,no
+PL-0105,Linowiec Airfield,small_airport,PL,54.007897,18.499983,358.0,no
+PL-0106,Jasienna Airfield,small_airport,PL,49.716723,20.811763,1713.0,no
+PL-0107,Mostki Airstrip,small_airport,PL,52.27189,15.369729,,no
+PL-0108,Herburtowo Forest Airfield,small_airport,PL,52.902234,16.129615,,no
+PL-0109,Konopki Airfield,small_airport,PL,52.989607,20.506689,413.0,no
+PL-0111,Lotnisko Mrągowo,small_airport,PL,53.825276,21.318983,,no
+PL-0114,Horodek Airfield,small_airport,PL,49.351199,22.481757,1621.0,no
+PL-0117,Kukały Airfield,small_airport,PL,51.875631,21.003014,,no
+PL-0120,Bełchatów Airstrip,small_airport,PL,51.402116,19.378239,713.0,no
+PL-0123,Międzyrzecz Airfield,small_airport,PL,52.419281,15.580507,,no
+PL-0124,Kępa Airfield,small_airport,PL,52.724271,20.421352,322.0,no
+PL-0125,Czyże,small_airport,PL,52.786205,23.430968,,no
+PL-0128,Lisy Airstrip,small_airport,PL,54.219442,22.044803,420.0,no
+PL-0130,Bożykowo Airfield,small_airport,PL,54.073224,21.83375,491.0,no
+PL-0131,Antonowo Airfield,closed,PL,54.058166,21.746916,390.0,no
+PL-0133,Lewickie Private Airstrip,small_airport,PL,53.029083,23.134638,430.0,no
+PL-0134,Krynice Kolonia,small_airport,PL,53.231111,23.044081,580.0,no
+PL-0135,Brody Airfield,small_airport,PL,53.360165,23.133138,480.0,no
+PL-0139,Konstancin Heliport,heliport,PL,52.108543,21.18733,,no
+PL-0140,Jaryszewo Airstrip,small_airport,PL,52.69077,16.615541,200.0,no
+PL-0145,Dobrosułów Airfield,small_airport,PL,52.1989335,15.1266946,,no
+PL-0148,Konarzyny Air Base,closed,PL,53.825333,17.3525,,no
+PL-0150,Folwark Piaski Airfield,small_airport,PL,52.4798514,17.7678974,,no
+PL-0151,Lotnisko Orneta,small_airport,PL,54.126694,20.0881201,,no
+PL-0152,Donimierz Airfield,small_airport,PL,54.486777,18.167569,583.0,no
+PL-0153,Lądowisko Pago Dąbcze,small_airport,PL,51.8187067,16.6601499,,no
+PL-0156,Brzeziny Airfield,small_airport,PL,51.808039,19.738517,,no
+PL-0157,Kutno,small_airport,PL,52.2085919,19.3907223,,no
+PL-0158,Konary Airstrip,small_airport,PL,52.287427,20.277461,,no
+PL-0163,Brużyczka Mała Airstrip,closed,PL,51.848148,19.32928,600.0,no
+PL-0165,Ikar Jasło Airstrip,small_airport,PL,49.752745,21.511692,760.0,no
+PL-0166,Heli Taxi Chocznia,heliport,PL,49.8806084,19.4671623,,no
+PL-0167,Chojnice Airfield,small_airport,PL,53.680788,17.533665,536.0,no
+PL-0170,Dębiczek Airstrip,small_airport,PL,52.267907,17.329428,,no
+PL-0172,Ldzań Airfield,small_airport,PL,51.58955,19.25418,607.0,no
+PL-0173,Lądowisko Wlewsk,small_airport,PL,53.2755,19.7606,,no
+PL-0175,Lotnisko Wisznice,small_airport,PL,51.7789,23.165767,,no
+PL-0176,Lotnisko Nadrybie,small_airport,PL,51.35107,23.02698,,no
+PL-0177,Lądowisko Kamionka,small_airport,PL,53.67644,18.63286,,no
+PL-0178,Goczałkowice,small_airport,PL,49.9524,18.9419,870.0,no
+PL-0180,Kępno Airstrip,small_airport,PL,51.32205,17.97273,,no
+PL-0181,Majory Airstrip,small_airport,PL,51.4316,18.05835,,no
+PL-0182,Czersk Świecki,small_airport,PL,53.5779,18.48456,,no
+PL-0184,Krośniewice Airstrip,small_airport,PL,52.25552,19.15125,,no
+PL-0186,Karminek Airfield,small_airport,PL,51.82801,17.6863,,no
+PL-0188,Dębno Airstrip,small_airport,PL,51.33468,16.51771,308.0,no
+PL-0192,Chalin 1 Airstrip,small_airport,PL,52.586038,16.034364,,no
+PL-0193,Krępsko Airfield,small_airport,PL,53.25052,16.75209,243.0,no
+PL-0195,Księginki Airstrip,small_airport,PL,51.95672,17.07527,334.0,no
+PL-0197,Bogatynia Airstrip,small_airport,PL,50.93039,14.97937,1302.0,no
+PL-0200,Konopiska Airstrip,small_airport,PL,50.73958,19.00814,,no
+PL-0201,Kaczowice Airfield,small_airport,PL,50.690789,17.110305,,no
+PL-0210,Brzeska Wola Airfield,small_airport,PL,51.60774,21.00479,469.0,no
+PL-0213,Iwno Airstrip,small_airport,PL,52.39084,17.282088,,no
+PL-0214,Marianka Airfield,small_airport,PL,51.75776,14.740208,243.0,no
+PL-0215,Bojszowy Airstrip,small_airport,PL,50.04975,19.09411,785.0,no
+PL-0216,Boronów,small_airport,PL,50.68065,18.9154,,no
+PL-0217,Koszalin Zegrze Pomorskie Airfield,closed,PL,54.0425,16.2656,249.0,no
+PL-0219,Górki Airfield,small_airport,PL,50.372316,21.289942,515.0,no
+PL-0220,Aircraft Emergency Heliport,heliport,PL,52.561534,19.71317,101.0,no
+PL-0221,Metelin Airstrip,small_airport,PL,50.74542,23.83732,,no
+PL-0222,Gostkowo Ultralight Airfield,small_airport,PL,53.112161,18.677819,278.0,no
+PL-0224,Cieszkowo Airstrip,small_airport,PL,52.70035,20.27785,328.0,no
+PL-0228,Kłodzko District Hospital Heliport,heliport,PL,50.45575,16.66357,974.0,no
+PL-0229,Jelenia Góra Valley Regional Medical Center Heliport,heliport,PL,50.91216,15.76221,1115.0,no
+PL-0230,Drożków Ultralight Airstrip,small_airport,PL,51.68613,15.06566,469.0,no
+PL-0232,Bauerówka Airfield,small_airport,PL,50.097599,21.725037,727.0,no
+PL-0233,Lipowa Airstrip,small_airport,PL,50.73297,17.4242,,no
+PL-0236,Lipowa Airfield,small_airport,PL,49.69775,19.09678,,no
+PL-0237,Ikar Airfield,small_airport,PL,51.87889,15.91943,289.0,no
+PL-0238,Kiełczynek Airfield,closed,PL,52.0664,17.22156,223.0,no
+PL-0241,Kuźnia Raciborska Firefighting Airstrip,small_airport,PL,50.22124,18.32237,655.0,no
+PL-0245,Krężce Airfield,small_airport,PL,51.93868,20.09039,433.0,no
+PL-0247,Chobot Airstrip,small_airport,PL,52.25052,21.40641,,no
+PL-0250,Kościeleczki Airfield,small_airport,PL,54.06483,19.00452,13.0,no
+PL-0253,Kluczewo Air Base,closed,PL,53.27986,14.96741,94.0,no
+PL-0254,Fire Rescue Training Heliport,heliport,PL,49.587793,20.663663,994.0,no
+PL-0255,Gniewskie Pole Airfield,small_airport,PL,53.79081,18.86246,60.0,no
+PL-0256,Dylew Airfield,small_airport,PL,51.71644,20.77152,453.0,no
+PL-0258,Kielczyn Airfield,small_airport,PL,52.05561,17.21515,276.0,no
+PL-0260,Karlino Airfield,small_airport,PL,54.06462,15.81256,105.0,no
+PL-0262,Lojaka Airfield,small_airport,PL,52.5136,21.05474,351.0,no
+PL-0265,Legnica Airport,closed,PL,51.1828,16.1782,407.0,no
+PL-0266,Iwonicz Airfield,closed,PL,49.658461,21.8155,971.0,no
+PL-0267,Biała Podlaska Air Base,closed,PL,52.00078,23.132528,485.0,no
+PL-0270,Góraszka Airport,closed,PL,52.184441,21.281111,361.0,no
+PL-0271,Mikołajki Airport,closed,PL,53.807781,21.55583,423.0,no
+PL-0272,Kraków Rakowice-Czyżyny Airport (Disused),small_airport,PL,50.084353,19.99031,732.0,no
+PL-0274,Bydgoszcz Aeroklub Airfield,small_airport,PL,53.105214,17.960376,230.0,no
+PL-0275,Borne Sulinowo Airfield,small_airport,PL,53.576149,16.527729,469.0,no
+PL-0276,Dargomyśl-Dębno Airfield,small_airport,PL,52.72012,14.6292,180.0,no
+PL-0277,Cedynia Paraglider Field,small_airport,PL,52.83686,14.31083,213.0,no
+PL-0278,Czerwonak Paraglider Field,small_airport,PL,52.56005,16.9934,210.0,no
+PL-0279,Dejguny Airstrip,small_airport,PL,54.021285,21.594777,397.0,no
+PL-0280,Mielno Seaplane Base,seaplane_base,PL,54.25843,16.07638,,no
+PL-0281,Jastrzębie-Zdrój Heliport,heliport,PL,49.944716,18.584994,827.0,no
+PL-0283,Dr. Ludwik Rydygier Provincial Hospital Heliport,heliport,PL,54.118322,22.926273,590.0,no
+PL-0285,Irządze Airstrip,small_airport,PL,50.62249,19.7113,,no
+RO-0002,Bănești Airfield,small_airport,RO,45.068378,25.806155,1207.0,no
+RO-0003,Aerodrom Fratauti,small_airport,RO,47.885278,25.899167,1380.0,no
+RO-0004,Ineu King's Land Airfield,small_airport,RO,47.079167,22.100278,498.0,no
+RO-0008,Elie Carafoli Sport Airfield,small_airport,RO,46.533241,24.529298,,no
+RO-0009,Charlie Bravo Șiria Airfield,small_airport,RO,46.26902,21.605301,361.0,no
+RO-0010,Ghimbav Aerodrome,small_airport,RO,45.699386,25.528414,1736.0,no
+RO-0012,Costinești Aerodrome,small_airport,RO,43.926686,28.629548,66.0,no
+RO-0013,Balta Verde Airfield,small_airport,RO,44.285839,23.791537,,no
+RO-0014,Alexeni Airfield,small_airport,RO,44.709778,26.721411,,no
+RO-0016,Aerial Club Vădeni,small_airport,RO,45.364129,27.938835,,no
+RO-0017,Cioca Airfield,small_airport,RO,45.78567,21.188104,292.0,no
+RO-0018,Cobrex Heliport,heliport,RO,45.657735,25.55701,1778.0,no
+RO-0019,Comana Airstrip,small_airport,RO,44.200367,26.139661,168.0,no
+RO-0020,Buziaş Airfield,small_airport,RO,45.654129,21.578748,404.0,no
+RO-0021,Fazi Airstrip,small_airport,RO,46.347099,25.873769,2958.0,no
+RO-0022,Joseni Airfield,small_airport,RO,46.726362,25.509257,2457.0,no
+RO-0023,Drobeta-Turnu Severin Airfield,small_airport,RO,44.580503,22.847785,,no
+RO-0027,Ciceu-Andras Airfield,small_airport,RO,46.392973,25.775285,2185.0,no
+RO-0028,Ghindari Airfield,small_airport,RO,46.519304,24.945037,,no
+RO-0029,General Inspectorate of Aviation Bucharest Heliport,heliport,RO,44.504177,26.098731,,no
+RO-0031,Crasna Deltafly Airfield,small_airport,RO,47.167853,22.854567,919.0,no
+RO-0032,Ciocănești - Popasul Zburatorilor Airfield,small_airport,RO,44.583121,25.848514,374.0,no
+RO-0033,Aerodromul Girov,small_airport,RO,46.961818,26.485076,,no
+RO-0035,Caragea Dermen Heliport,heliport,RO,44.23193,28.58523,30.0,no
+RO-0037,King Carol I Lighthouse Heliport,heliport,RO,44.15982,28.65775,3.0,no
+RO-0038,Constanța Naval Heliport,heliport,RO,44.15778,28.66116,3.0,no
+RO-0039,Mamaia Heliport,heliport,RO,44.23659,28.62099,3.0,no
+RO-0041,Dunavățu de Jos Aerodrome,small_airport,RO,44.985719,29.213128,43.0,no
+RO-0042,Chilia Veche Aerodrome,closed,RO,45.41911,29.31393,6.0,no
+RO-0043,Damen Shipyard Heliport,heliport,RO,45.44382,28.0831,23.0,no
+RO-0045,Barza Târgu-Jiu Airfield,small_airport,RO,45.003929,23.333545,667.0,no
+RO-0046,Ilfoveni (Aerogetic) Airfield,small_airport,RO,44.794536,25.589261,659.0,no
+RO-0047,Fly Friends Airfield,small_airport,RO,44.491637,25.584884,415.0,no
+RO-0048,Mihăița Airstrip,small_airport,RO,44.391777,23.671024,285.0,no
+RO-0049,Luncani Airfield,small_airport,RO,46.481669,23.931478,1010.0,no
+RO-0050,Dezmir Airfield,small_airport,RO,46.779124,23.71282,1010.0,no
+RO-0051,Gagu Zenair Airfield,small_airport,RO,44.611058,26.26066,265.0,no
+RO-0052,Dogaru Heliport,heliport,RO,47.058386,22.078215,498.0,no
+RO-0054,Iaşi Sud,small_airport,RO,47.15778,27.6375,200.0,no
+RO-0055,Dumbrava Roșie Airfield,small_airport,RO,46.898853,26.434307,992.0,no
+RO-0056,Dărmănești,small_airport,RO,47.721693,26.118418,975.0,no
+RO-0057,Luica Airfield,small_airport,RO,44.262213,26.651981,170.0,no
+RO-0058,Casa Teo Airstrip,small_airport,RO,45.02052,25.855951,921.0,no
+RO-0059,Copalnic-Manastur Airfield,small_airport,RO,47.509161,23.68935,815.0,no
+RO-0061,Mugeni Airfield,small_airport,RO,46.249281,25.222732,1475.0,no
+RO-0062,Aripi  Ramnicene Airstrip,small_airport,RO,45.380489,27.074475,335.0,no
+RO-0064,Crystal Tower Bucharest Helipad,heliport,RO,44.452433,26.095448,505.0,no
+RO-0065,Letca Nouă Airfield,small_airport,RO,44.22531,25.75088,282.0,no
+RO-0066,Fibiș Airstrip,small_airport,RO,45.96196,21.45735,413.0,no
+RO-0070,Deveselu Heliport,heliport,RO,44.0806,24.40044,292.0,no
+RO-0071,Mânăstirea Airfield,small_airport,RO,44.21899,26.8735,108.0,no
+RO-0073,Drobeta-Turnu Severin Heliport,heliport,RO,44.6304,22.63471,266.0,no
+RO-0074,Balomir (Sibot) Airfield,closed,RO,45.92483,23.35914,794.0,no
+RO-0075,Aripile Fagarsului Airfield,closed,RO,45.74613,25.02131,1742.0,no
+RO-0076,Cremenari Airfield,closed,RO,44.97906,24.29719,902.0,no
+RO-0077,Luieriu Agricultural Airfield,closed,RO,46.84201,24.73282,1371.0,no
+RO-0080,Amicii Dabija Airfield,small_airport,RO,46.09834,27.54224,190.0,no
+RO-0081,Botoșani Airfield,small_airport,RO,47.791044,26.65957,,no
+RO-0084,Constanța Palas Airport,closed,RO,44.155328,28.603942,200.0,no
+RO-0086,BM Paramotoring and Paragliding Field,small_airport,RO,44.70336,27.91061,15.0,no
+RO-0087,Laci Oros Airfield,small_airport,RO,47.30468,22.39987,475.0,no
+RO-0088,Mujdeni Airfield,small_airport,RO,47.84848,23.27101,472.0,no
+RO-0092,Golden Wings Airfield,small_airport,RO,45.682004,21.022897,266.0,no
+RO-0094,Florin Aerodrome,small_airport,RO,45.6884,25.77167,1808.0,no
+RO-0096,Ciolpani Airfield,small_airport,RO,44.73839,26.09206,331.0,no
+RO-0098,Buzău Airfield,closed,RO,45.12718,26.80141,308.0,no
+RO-0099,Dăbâca Airfield,closed,RO,46.98905,23.67095,1450.0,no
+RO-0100,Mediaș (Flamingo) Airfield,small_airport,RO,46.13327,24.33634,1076.0,no
+RO-0101,Mihăieni Airfield,small_airport,RO,47.55131,22.74838,430.0,no
+RO-0102,Mocrea Airstrip,small_airport,RO,46.3786,21.82322,364.0,no
+RO-0106,Mărgineni Airfield,small_airport,RO,46.59582,26.87647,574.0,no
+RO-0107,Deveselu Air Base,closed,RO,44.0773010254,24.4164009094,289.0,no
+RO-0108,Grădiștea Airfield,small_airport,RO,44.225,26.121389,254.0,no
+RO-0109,Galați Airport,closed,RO,45.45379,28.04489,,no
+RO-0111,Mamaia Airfield,closed,RO,44.302248,28.604515,89.0,no
+RO-0112,Cotroceni Airfield,closed,RO,44.43,26.05,,no
+RO-0113,Chitila-Giulești Airfield,closed,RO,44.49574,26.012836,,no
+RO-0116,Mizil Airfield,closed,RO,44.987931,26.418772,,no
+RO-0119,Braşov City Airfield,closed,RO,45.678654,25.618111,,no
+RO-0120,Constanța Palazu Mare Seaplane Base,closed,RO,44.230119,28.61078,,no
+RO-0121,Air Force Staff HQ Helipad,heliport,RO,44.518905,26.07532,,no
+RO-0122,Central Military Emergency MAPN Hospital Of Bucharest Helipad,heliport,RO,44.439709,26.074634,,no
+RO-0123,Emergency University Hospital Of Bucharest Heliport,heliport,RO,44.436018,26.071093,,no
+RO-0124,Ministry Of National Defense Helipad,heliport,RO,44.427643,26.078855,,no
+RO-0125,Land Forces Staff HQ Helipad,heliport,RO,44.422441,26.050268,,no
+RO-0126,Military Unit 30th Guard Brigade Helipad,heliport,RO,44.429601,26.056545,,no
+RO-0127,Military Unit Multinational Division South East (MNDSE) Heliport,heliport,RO,44.408229,26.049668,,no
+RO-0128,Children's World Park Bucharest Helipad,heliport,RO,44.405063,26.115044,,no
+RO-0129,Cernica Monastery Helipad,closed,RO,44.432879,26.256804,,no
+RO-0130,Corsarul Air Heliport,heliport,RO,44.455312,25.725442,,no
+RO-0131,Constanța County Emergency Clinical Hospital Helipad,heliport,RO,44.185713,28.641368,,no
+RO-0132,Mamaia Villa Helipad,heliport,RO,44.230537,28.624513,,no
+RO-0136,"Emergency Clinical Hospital for Children ""Maria Skłodowska Curie"" Helipad",heliport,RO,44.389904,26.109164,,no
+RO-0138,Aerodrom Baia Mare,small_airport,RO,47.659081,23.474513,,no
+RO-0142,JTAir Heliport,heliport,RO,44.280585,28.602755,,no
+RO-0143,IGJR Neptun Helipad,heliport,RO,43.87652,28.601972,,no
+RO-0144,Mangalia Municipal Hospital Helipad,heliport,RO,43.819395,28.588336,,no
+RO-0145,IGPF Mangalia Port Helipad,heliport,RO,43.805439,28.579865,,no
+RO-0146,Damen Shipyards Mangalia Emergency Helipad,heliport,RO,43.796632,28.56676,,no
+RO-0148,Civitas Tropaensium Museum Helipad,heliport,RO,44.091939,27.941483,,no
+RO-0149,Cernavodă City Hospital Helipad,heliport,RO,44.342289,28.044432,,no
+RO-0150,CNE Helipad,heliport,RO,44.319561,28.054581,,no
+RO-0151,Călărași Utility Aviation Helipad,closed,RO,44.209623,27.336516,,no
+RO-0152,County Emergency Hospital Slobozia,heliport,RO,44.567889,27.36056,,no
+RO-0153,Hârşova City Hospital,heliport,RO,44.691634,27.952995,,no
+RO-0154,Mărașu Private Helipad,heliport,RO,44.846848,27.999081,,no
+RO-0155,Delta Nature Resort Helipad,heliport,RO,45.202278,28.627802,,no
+RO-0157,Liberty Steel Galați Helipad,closed,RO,45.438605,27.988315,,no
+RO-0158,Adjud Private Helipad,heliport,RO,46.123641,27.153048,,no
+RO-0159,Industrial Zone Bacău Helipad,heliport,RO,46.512733,26.94633,,no
+RO-0160,Emergency County Hospital Bacau,heliport,RO,46.556444,26.910131,,no
+RO-0161,Municipal Emergency Hospital Moineşti Helipad,heliport,RO,46.476786,26.487769,,no
+RO-0165,Jibou Ambulance Heliport,heliport,RO,47.271021,23.257294,,no
+RO-0166,Bucureşti Utility Aviation,closed,RO,44.502895,26.084842,291.0,no
+RO-0167,Dacia Group Mioveni Helipad,heliport,RO,44.949127,24.922121,,no
+RO-0170,Customs Office Alexandria Helipad,heliport,RO,43.980981,25.313498,,no
+RO-0171,Emergency County Hospital Craiova Helipad,heliport,RO,44.304848,23.793694,,no
+RO-0176,Becicherecu Mic Airfield,small_airport,RO,45.844681,21.029849,,no
+RO-0178,Chitila Airfield,small_airport,RO,44.505011,25.959589,,no
+RU-2098,Mukachevo Air Base,closed,UA,48.398499,22.686896,390.0,no
+SK-0001,Dobra Niva airfield,small_airport,SK,48.488716,19.101749,1143.0,no
+SK-0002,Košťany nad Turcom Airstrip,small_airport,SK,49.0167622,18.8951041,,no
+SK-0003,Dunajská Streda-Malé Blahovo Airfield,small_airport,SK,48.020261,17.612572,377.0,no
+SK-0004,Hrabušice,small_airport,SK,48.968981,20.386289,1831.0,no
+SK-0005,Kamenný Most Airfield,small_airport,SK,47.863889,18.65,364.0,no
+SK-0006,Krakovany Airfield,small_airport,SK,48.633889,17.732222,,no
+SK-0007,Malý Madaras Airfield,small_airport,SK,48.142866,17.377625,,no
+SK-0012,Gajary Airstrip,small_airport,SK,48.448391,16.938858,502.0,no
+SK-0014,Mirkovce Airstrip,small_airport,SK,48.891407,21.317362,1086.0,no
+SK-0017,Bojná Airstrip,small_airport,SK,48.541903,18.052603,,no
+SK-0018,Kačanov Airstrip,small_airport,SK,48.615208,21.83507,341.0,no
+SK-0019,Ludanice Airstrip,small_airport,SK,48.509677,18.132026,,no
+SK-0021,Morovno Airstrip,small_airport,SK,48.760753,18.742585,,no
+SK-0024,Klátová Nová Ves Airstrip,closed,SK,48.57884,18.285934,,no
+SK-0026,Babin Most Airstrip,small_airport,SK,48.378078,19.93117,1073.0,no
+SK-0030,Horný Jatov Airstrip,small_airport,SK,48.163221,17.957382,,no
+SK-0033,Bystričany Airstrip,closed,SK,48.658592,18.544089,,no
+SK-0034,Hontianske Nemce Airstrip,small_airport,SK,48.261964,19.009003,1010.0,no
+SK-0035,Janova Lehota Airstrip,small_airport,SK,48.637592,18.797125,,no
+SK-0037,Drienovec Airstrip,small_airport,SK,48.607864,20.938503,,no
+SK-0039,Bátka Airstrip,small_airport,SK,48.371677,20.153322,745.0,no
+SK-0040,Buzica Airstrip,small_airport,SK,48.550702,21.09315,636.0,no
+SK-0041,Kecerovce Airstrip,small_airport,SK,48.833554,21.4042387,,no
+SK-0043,Chotín Airstrip,small_airport,SK,47.81415,18.194275,358.0,no
+SK-0046,Domaniža Airfield,small_airport,SK,49.0517234,18.5533962,,no
+SK-0047,Hertník Airstrip,small_airport,SK,49.210967,21.264231,1334.0,no
+SK-0048,Kolonica Airstrip,small_airport,SK,48.933635,22.275849,,no
+SK-0049,Kurov Airstrip,small_airport,SK,49.337959,21.148789,,no
+SK-0051,Jasenov Airstrip,small_airport,SK,48.791825,22.179766,551.0,no
+SK-0053,Hucín Airstrip,small_airport,SK,48.574449,20.291375,751.0,no
+SK-0054,Dlžín Airstrip,small_airport,SK,48.8044756,18.5067176,,no
+SK-0056,Haniska Airstrip,small_airport,SK,48.609863,21.248697,,no
+SK-0059,Kalša Airstrip,small_airport,SK,48.624655,21.506477,896.0,no
+SK-0060,Dolná Strehová Airstrip,small_airport,SK,48.256185,19.504961,,no
+SK-0061,Kráľovský Chlmec Airstrip,small_airport,SK,48.413942,22.002993,,no
+SK-0065,Dolná Štubňa Airstrip,small_airport,SK,48.834808,18.843625,,no
+SK-0066,Kamienka/Hniezdne Airstrip,small_airport,SK,49.319881,20.635033,,no
+SK-0070,Mokraď Airstrip,small_airport,SK,49.096416,19.733499,2589.0,no
+SK-0071,Klčov Airstrip,small_airport,SK,48.994162,20.664952,,no
+SK-0072,Komoča Airfield,small_airport,SK,47.97054,18.040467,,no
+SK-0078,Hatalov Airfield,small_airport,SK,48.651565,21.873589,,no
+SK-0080,Mlynica Airfield,small_airport,SK,49.104809,20.318398,,no
+SK-0083,Masníkovo Airfield,small_airport,SK,48.04539,17.47704,384.0,no
+SK-0086,Kľačany Airfield,closed,SK,48.40804,17.87638,820.0,no
+SK-0087,Chtelnica Airfield,closed,SK,48.58154,17.62763,932.0,no
+SK-0088,Bohunice Nuclear Power Plant Heliport,heliport,SK,48.48971,17.67219,556.0,no
+SK-0089,Banská Bystrica Hospital Heliport,heliport,SK,48.743693,19.114494,1332.0,no
+SK-0091,Dolna Telka Airstrip,small_airport,SK,48.34239,19.6035,709.0,no
+SK-0092,LMK Očová Airstrip,small_airport,SK,48.58111,19.30989,1290.0,no
+SK-0093,Hrádok Airport,closed,SK,48.58572,19.21684,1138.0,no
+SK-0097,Kráľová pri Senci Airfield,closed,SK,48.201094,17.472467,400.0,no
+UA-0001,Borodyanka Air Base,closed,UA,50.6633,29.8933,463.0,no
+UA-0002,Brody Air Base,small_airport,UA,50.130001,25.17,787.0,no
+UA-0003,Chernihiv Air Base,small_airport,UA,51.547537,31.309374,446.0,no
+UA-0006,Kornych Air Base,closed,UA,48.528999,25.125,,no
+UA-0007,Kolomiya Airport,closed,UA,48.55099868774414,25.04199981689453,,no
+UA-0008,Chortkiv Air Base,closed,UA,48.97800064086914,25.742000579833984,,no
+UA-0009,Gora Klementyeva Airfield,small_airport,UA,45.012616,35.247767,,no
+UA-0011,Karankut Air Base,closed,UA,45.577999,34.282001,52.0,no
+UA-0012,Kirovskoe Air Base,medium_airport,UA,45.16699981689453,35.18299865722656,,no
+UA-0014,Donuzlav Air Base,closed,UA,45.325884,33.050407,37.0,no
+UA-0017,Genichesk Air Base,closed,UA,46.209,34.764999,,no
+UA-0019,Bagerovo Air Base,closed,UA,45.407001,36.244999,,no
+UA-0020,Melitopol Air Base,medium_airport,UA,46.880001,35.305,,no
+UA-0022,Kacha Air Base,medium_airport,UA,44.779764,33.572245,403.0,no
+UA-0023,Chkalovskiy Airfield,closed,UA,45.073002,35.202999,,no
+UA-0024,Askaniya-Nova Airport,closed,UA,46.419998,33.724998,,no
+UA-0025,Bila Tserkva Air Base,medium_airport,UA,49.795228,30.024435,584.0,no
+UA-0026,Blagoyevo Air Base,closed,UA,46.89500045776367,30.700000762939453,,no
+UA-0027,Bliznyuki Air Base,small_airport,UA,48.876999,36.549999,,no
+UA-0029,Bolshoy Tokmak Air Base,closed,UA,47.285459,35.707855,,no
+UA-0030,Luzhani Airfield,closed,UA,48.38399887084961,25.767000198364254,,no
+UA-0032,Artsyz Air Base,small_airport,UA,45.945829,29.376832,,no
+UA-0033,Kiliya Airport,closed,UA,45.458866,29.287591,2.0,no
+UA-0034,Lymanske Airfield,small_airport,UA,46.668998,30.011105,,no
+UA-0035,Chоrnobil Heliport,closed,UA,51.285999,30.198999,388.0,no
+UA-0036,Dmitrievka Airfield,small_airport,UA,48.950001,39.115002,,no
+UA-0037,Dobrianka Airfield,small_airport,UA,52.082491,31.121171,449.0,no
+UA-0038,Kyiv Chaika Airfield,small_airport,UA,50.431185,30.30093,600.0,no
+UA-0045,Izyum Air Base,small_airport,UA,49.259998,37.154999,,no
+UA-0046,Kalynivka Air Base,small_airport,UA,49.485372,28.539097,,no
+UA-0047,Dolgintsevo Air Base,medium_airport,UA,47.887,33.533,341.0,no
+UA-0049,Myrhorod Air Base,small_airport,UA,49.932,33.641,400.0,no
+UA-0050,Kakhnovka Airfield,small_airport,UA,49.136799,33.477893,266.0,no
+UA-0051,Lokhvitsya Airfield,small_airport,UA,50.346,33.296,,no
+UA-0052,Korotych Airfield,small_airport,UA,49.97482,36.01425,410.0,no
+UA-0054,Kupyansk Air Base,small_airport,UA,49.684,37.715,,no
+UA-0056,Mayske Airfield,small_airport,UA,48.491944,35.625933,,no
+UA-0057,Mospyne Airfield,small_airport,UA,47.841620693900005,38.100843429600005,,no
+UA-0060,Gostra Mogila Airfield,closed,UA,48.532282,39.390879,,no
+UA-0061,Dalnik Airfield,closed,UA,46.493108,30.618859,213.0,no
+UA-0062,Liman Airfield,small_airport,UA,46.57851,30.703053,,no
+UA-0063,Kruglaya Bukhta Heliport,heliport,UA,44.601552,33.450354,21.0,no
+UA-0067,Kanatove Air Base,small_airport,UA,48.5613645875,32.3872071505,,no
+UA-0068,Mala Vyska Airfield,closed,UA,48.632,31.616,,no
+UA-0070,Kam'yanka Airfield,small_airport,UA,48.552552,35.01729,,no
+UA-0073,Hydropark Heliport,heliport,UA,50.458134,30.568124,,no
+UA-0074,Mariinsky Park Heliport,heliport,UA,50.449147,30.541149,548.0,no
+UA-0077,Aerodrom Krupske,closed,UA,49.451556,24.043866,,no
+UA-0078,Chervonoarmiis'ke Airstrip,small_airport,UA,45.791888,28.72434,,no
+UA-0079,Andrushivka,small_airport,UA,50.0193428,28.9912024,,no
+UA-0083,Filiutka,small_airport,UA,49.335903,29.270067,,no
+UA-0084,Mykolaivka-Novorosiis'ka Airstrip,closed,UA,46.130858,29.874125,269.0,no
+UA-0085,Iziaslav,small_airport,UA,50.1196431,26.8681069,,no
+UA-0087,Krasni Okny Airfield,closed,UA,47.549189,29.428682,,no
+UA-0088,Chervonobirka Airstrip,small_airport,UA,50.588009,29.264402,,no
+UA-0090,Korostelivka Airstrip,small_airport,UA,50.557536,28.779839,673.0,no
+UA-0091,Lidavo Airstrip,small_airport,UA,50.4681472,26.2177308,,no
+UA-0092,Kryzhopil Airstrip,small_airport,UA,48.35874,28.860397,,no
+UA-0096,Frunzivka Airstrip,small_airport,UA,47.3313702,29.7908674,,no
+UA-0099,Kremydivka Airfield,small_airport,UA,46.758049,30.792846,250.0,no
+UA-0100,Ksaverivka Airfield,small_airport,UA,50.005647,30.197924,,no
+UA-0101,Mezhigyrya Heliport,heliport,UA,50.621493,30.460464,,no
+UA-0102,Lyneya Airstrip,closed,UA,51.413316,30.87469,446.0,no
+UA-0103,Buzova Glider Field,small_airport,UA,50.401711,30.053718,,no
+UA-0104,Dymer Airstrip,small_airport,UA,51.0071035,29.9782477,,no
+UA-0105,Karabachyn Airstrip,closed,UA,50.274742,29.441407,,no
+UA-0106,Anan'iv Airstrip,closed,UA,47.6797,29.966926,,no
+UA-0107,Kam'yanets'-Podil's'kyi Airfield,small_airport,UA,48.695631,26.609471,700.0,no
+UA-0108,Drohobych Airfield,small_airport,UA,49.367235,23.568403,902.0,no
+UA-0109,Malyn Airstrip,small_airport,UA,50.786675,29.246711,,no
+UA-0113,Lanivtsi Airstrip,small_airport,UA,49.84537,26.116193,,no
+UA-0115,Hardyshivka Airstrip,small_airport,UA,49.898809,28.436614,,no
+UA-0121,Kobelyachok Airstrip,small_airport,UA,49.0522143,33.7993478,,no
+UA-0122,Iskrivka Airstrip,closed,UA,48.1787704,33.354016,,no
+UA-0123,Biloyarivka Airstrip,closed,UA,47.810729,38.629275,347.0,no
+UA-0125,Bilohorodka Heliport,heliport,UA,50.424592,30.272464,,no
+UA-0127,Kosino Spa Resort Airfield,small_airport,UA,48.25318,22.498503,107.0,no
+UA-0129,Koktebel Gliding Center,small_airport,UA,45.020896,35.206845,801.0,no
+UA-0130,Kurgannoye Airstrip,closed,UA,45.8541,33.7062,,no
+UA-0131,Kukushkino Airstrip,closed,UA,45.698139,33.36079,,no
+UA-0134,Chervonyi Chaban Airfield,closed,UA,46.18,33.5934,,no
+UA-0136,Lazurne Airfield,small_airport,UA,46.0838,32.5075,3.0,no
+UA-0137,Bekhtery Airfield,small_airport,UA,46.232,32.292,14.0,no
+UA-0140,Kyiv Challenge Heliport,heliport,UA,50.406424,30.579473,314.0,no
+UA-0141,Luhansk Aviation Sports Club Airfield,small_airport,UA,48.50259,39.150295,545.0,no
+UA-0142,Lysychansk Heliport,heliport,UA,48.9323,38.4097,433.0,no
+UA-0143,Blagodatnoye Delta-Paradrome,small_airport,UA,47.9042,38.5194,575.0,no
+UA-0144,Borodyanka Aerodrome,small_airport,UA,50.6661,29.9329,490.0,no
+UA-0145,Chernihiv West Airfield,closed,UA,51.5196,30.955,509.0,no
+UA-0146,Aeroclub Swallow,small_airport,UA,48.81223,26.022577,873.0,no
+UA-0149,Mriya Resort Helipad,heliport,UA,44.3977,33.94168,251.0,no
+UA-0150,Internal Affairs Ministry Dacha Helipad,heliport,UA,44.40043,33.92258,182.0,no
+UA-0151,Demetrynskaya Street Helipad,heliport,UA,44.5097,33.6069,305.0,no
+UA-0155,GK Tavriya Resort Seaside Helipad,heliport,UA,44.4043,33.8779,,no
+UA-0156,GK Tavriya Resort Heliport,heliport,UA,44.40605,33.88245,430.0,no
+UA-0160,Massandra Palace Heliport,heliport,UA,44.5145,34.2039,971.0,no
+UA-0161,Artek Heliport,heliport,UA,44.56059,34.307563,335.0,no
+UA-0165,Frumushyka Airstrip,closed,UA,46.29002,29.40827,436.0,no
+UA-0166,Frumushyka Heliport,heliport,UA,46.29598,29.41779,418.0,no
+UA-0168,Chaplynka Airfield,small_airport,UA,46.34539,33.54191,72.0,no
+UA-0172,Korsak Airfield,small_airport,UA,46.7513,35.6342,115.0,no
+UA-0173,Hlukhiv Airfield,small_airport,UA,51.68335,33.87135,577.0,no
+UA-0175,Holubivka Airfield,closed,UA,48.63034,38.67211,672.0,no
+UA-0178,Mala Bilozerka Airport,closed,UA,47.268353,34.962648,246.0,no
+UA-0179,Mamalyha Heliport,heliport,UA,48.2477,26.58473,377.0,no
+UA-0183,Balabyne Airfield,closed,UA,47.768436,35.2604,,no
+UA-0184,Apostolove Airfield,small_airport,UA,47.657898,33.752977,,no
+UA-0190,Khmilnyk Airport,closed,UA,49.569142,28.016074,960.0,no
+UA-0193,Lukvitsa Airfield,small_airport,UA,48.755572,24.278632,1820.0,no
+UA-0194,Mar'yanivka Airfield,small_airport,UA,50.464547,24.833452,780.0,no
+UA-0195,Bucha Heliport,heliport,UA,50.568457,30.214526,382.0,no
+UA-0197,Luchyntsi Airstrip,small_airport,UA,49.360802,24.619849,,no
+UA-0198,Fadiivka Airstrip,small_airport,UA,49.99397,27.40754,,no
+UA-2904,Dubno Air Base,small_airport,UA,50.444987,25.838414,735.0,no
+UA-3578,Konotop Air Base,small_airport,UA,51.240304,33.146532,476.0,no
+UA-3897,Lebedyn Air Base,closed,UA,50.549999,34.533298,476.0,no
+UA-8322,Horodnia Air Base,closed,UA,51.883767,31.645489,489.0,no
+UA-8381,Liubsha Air Base,closed,UA,49.2883,24.198299,807.0,no
+UA-8984,Lutsk Air Base,small_airport,UA,50.7886830253,25.3482913971,640.0,no
+UA-9862,Donetsk Sergei Prokofiev International Airport,closed,UA,48.075072,37.72527,791.0,no
+UA-9863,Luhansk International Airport,closed,UA,48.41903,39.374342,636.0,no
+UA-9864,Chepelevka (Uzin) Air Base,closed,UA,49.7906,30.441401,568.0,no
+UA-9865,Chernihiv Shestovytsia Airport,closed,UA,51.402199,31.1583,446.0,no
+UA-9868,Izmail International Airport,closed,UA,45.395959,28.801403,125.0,no
+UA-9870,LyutIvka Airfield,closed,UA,50.290867,35.837666,730.0,no
+UA-9879,Dmitrovka Airfield,closed,UA,46.839552,36.587008,148.0,no
+UA-9885,Botiyevska Wind Power Heliport,heliport,UA,46.6273,35.736362,47.0,no
+UA-9886,Davydkovtsy Heliport,heliport,UA,49.42165,27.149767,1168.0,no
+UA-9887,Kiev - Gora Heliport,heliport,UA,50.365525,30.838816,423.0,no
+UK59,Chuhuiv Air Base,small_airport,UA,49.8382,36.641201,453.0,no
+UK61,Jagellon Airfield,small_airport,UA,49.7379,23.6689,895.0,no
+UKBB,Boryspil International Airport,medium_airport,UA,50.345001,30.894699,427.0,no
+UKBH,Korshun Shevchenkovskiy Airfield,small_airport,UA,49.424902,31.230242,500.0,no
+UKCK,Kramatorsk Airport,small_airport,UA,48.706799,37.630922,646.0,no
+UKCM,Mariupol International Airport,medium_airport,UA,47.07609939575195,37.44960021972656,251.0,yes
+UKDB,Berdyansk Airport,medium_airport,UA,46.814999,36.758099,171.0,no
+UKDD,Dnipro International Airport,medium_airport,UA,48.357201,35.100601,481.0,yes
+UKDR,Kryvyi Rih International Airport,medium_airport,UA,48.04330062866211,33.209999084472656,408.0,yes
+UKFG,Gvardeyskoye (Hvardiiske) Air Base,medium_airport,UA,45.116192,33.976625,721.0,no
+UKFK,Kerch Airport,small_airport,UA,45.372501,36.401402,171.0,no
+UKFY,Dzhankoy Air Base,medium_airport,UA,45.700901,34.4189,75.0,no
+UKHD,Kharkiv North Airport,small_airport,UA,50.024675,36.266775,592.0,no
+UKHG,Globino Heliport,closed,UA,49.410974,33.265602,333.0,no
+UKHH,Kharkiv International Airport,medium_airport,UA,49.926943,36.290814,508.0,no
+UKIN,Haisyn Airfield,small_airport,UA,48.825876,29.33431,790.0,no
+UKKE,Cherkasy International Airport,medium_airport,UA,49.4156,31.9953,375.0,no
+UKKG,Kirovograd Airport,small_airport,UA,48.542801,32.285,568.0,no
+UKKK,Igor Sikorsky Kyiv International Airport (Zhuliany),closed,UA,50.40194,30.45194,587.0,yes
+UKKM,Hostomel Airport,medium_airport,UA,50.6035,30.1919,517.0,no
+UKLC,Lutsk Airport,small_airport,UA,50.678404,25.487165,774.0,no
+UKLH,Khmelnytskyi Airport,medium_airport,UA,49.359699,26.933399,1150.0,no
+UKLI,Ivano-Frankivsk International Airport,medium_airport,UA,48.88420104980469,24.68610000610352,919.0,yes
+UKLL,Lviv International Airport,large_airport,UA,49.8125,23.9561,1071.0,yes
+UKLN,Chernivtsi International Airport,medium_airport,UA,48.2593002319336,25.98080062866211,826.0,yes
+UKNG,Gogoliv Airfield,small_airport,UA,50.515308,31.046581,,no
+UKOH,Kherson International Airport,medium_airport,UA,46.6758,32.506401,148.0,yes
+UKON,Mykolaiv International Airport,closed,UA,47.057899,31.9198,184.0,yes
+UKOR,Kulbakyne Air Base,small_airport,UA,46.936433,32.098618,177.0,no

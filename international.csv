@@ -1,0 +1,48 @@
+ID,airport_name,type,country,lat,long,elevation,service
+CZ-0006,International Business Center Brno Heliport,heliport,CZ,49.200279,16.61389,774.0,no
+EPKK,Kraków John Paul II International Airport,large_airport,PL,50.077702,19.7848,791.0,yes
+EPKT,Katowice Wojciech Korfanty International Airport,large_airport,PL,50.476015,19.080705,995.0,yes
+LBPD,Plovdiv International Airport,large_airport,BG,42.067799,24.8508,597.0,yes
+LHBP,Budapest Liszt Ferenc International Airport,large_airport,HU,47.43018,19.262393,495.0,yes
+LHDC,Debrecen International Airport,large_airport,HU,47.489469,21.616278,359.0,yes
+LHPP,Pécs-Pogány International Airport,large_airport,HU,45.988891,18.242044,651.0,yes
+LRAR,Arad International Airport,medium_airport,RO,46.176136,21.264322,352.0,yes
+LRBC,Bacău George Enescu International  Airport,large_airport,RO,46.5219,26.910299,607.0,yes
+LRBM,Maramureș International Airport,medium_airport,RO,47.658444,23.464445,605.0,yes
+LRBS,Bucharest Băneasa Aurel Vlaicu International Airport,large_airport,RO,44.503133,26.102944,297.0,yes
+LRBV,Brașov-Ghimbav International Airport,large_airport,RO,45.70558,25.522871,1740.0,yes
+LRCK,Mihail Kogălniceanu International Airport,large_airport,RO,44.362202,28.4883,353.0,yes
+LRCL,Avram Iancu Cluj International Airport,large_airport,RO,46.786042,23.685733,1039.0,yes
+LRCV,Craiova International Airport,large_airport,RO,44.3181,23.888599,626.0,yes
+LRIA,Iaşi International Airport,large_airport,RO,47.179633,27.621431,411.0,yes
+LROD,Oradea International Airport,large_airport,RO,47.025299,21.9025,465.0,yes
+LROP,Bucharest Henri Coandă International Airport,large_airport,RO,44.571792,26.103285,314.0,yes
+LRSB,Sibiu International Airport,large_airport,RO,45.785841,24.086666,1496.0,yes
+LRSM,Satu Mare International Airport,medium_airport,RO,47.7033,22.8857,405.0,yes
+LRSV,Suceava Ștefan cel Mare International Airport,large_airport,RO,47.6875,26.354099,1375.0,yes
+LRTM,Târgu Mureş Transilvania International Airport,medium_airport,RO,46.467701,24.4125,963.0,yes
+LRTR,Timișoara Traian Vuia International Airport,large_airport,RO,45.809898,21.3379,348.0,yes
+LZKZ,Košice International Airport,medium_airport,SK,48.663101,21.2411,755.0,yes
+UA-9862,Donetsk Sergei Prokofiev International Airport,closed,UA,48.075072,37.72527,791.0,no
+UA-9863,Luhansk International Airport,closed,UA,48.41903,39.374342,636.0,no
+UA-9868,Izmail International Airport,closed,UA,45.395959,28.801403,125.0,no
+UKBB,Boryspil International Airport,medium_airport,UA,50.345001,30.894699,427.0,no
+UKCM,Mariupol International Airport,medium_airport,UA,47.07609939575195,37.44960021972656,251.0,yes
+UKDD,Dnipro International Airport,medium_airport,UA,48.357201,35.100601,481.0,yes
+UKDE,Zaporizhzhia International Airport,large_airport,UA,47.866962,35.314723,373.0,no
+UKDR,Kryvyi Rih International Airport,medium_airport,UA,48.04330062866211,33.209999084472656,408.0,yes
+UKFB,Sevastopol International Airport / Belbek Air Base,medium_airport,UA,44.691822,33.57462,344.0,no
+UKFF,Simferopol International Airport,large_airport,UA,45.0522,33.975101,639.0,yes
+UKHH,Kharkiv International Airport,medium_airport,UA,49.926943,36.290814,508.0,no
+UKKE,Cherkasy International Airport,medium_airport,UA,49.4156,31.9953,375.0,no
+UKKK,Igor Sikorsky Kyiv International Airport (Zhuliany),closed,UA,50.40194,30.45194,587.0,yes
+UKLI,Ivano-Frankivsk International Airport,medium_airport,UA,48.88420104980469,24.68610000610352,919.0,yes
+UKLL,Lviv International Airport,large_airport,UA,49.8125,23.9561,1071.0,yes
+UKLN,Chernivtsi International Airport,medium_airport,UA,48.2593002319336,25.98080062866211,826.0,yes
+UKLR,Rivne International Airport,medium_airport,UA,50.60710144042969,26.141599655151367,755.0,yes
+UKLT,Ternopil International Airport,small_airport,UA,49.5242,25.7001,1072.0,no
+UKLU,Uzhhorod International Airport,large_airport,UA,48.6343,22.263399,383.0,yes
+UKOH,Kherson International Airport,medium_airport,UA,46.6758,32.506401,148.0,yes
+UKON,Mykolaiv International Airport,closed,UA,47.057899,31.9198,184.0,yes
+UKOO,Odesa International Airport,large_airport,UA,46.427196,30.672649,172.0,no
+UKWW,Vinnytsia/Gavyryshivka International Airport,medium_airport,UA,49.242531,28.613778,961.0,no
